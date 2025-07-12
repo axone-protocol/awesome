@@ -85,7 +85,7 @@
 
 | Thanks To                  | Type                                | URL                         | Status |
 | -------------------------- | ----------------------------------- | --------------------------- | ------ |
-| [AXONE](https://axone.xyz) | AXONE Services Status & Update Time | <https://status.axone.xyz/> | ❌     |
+| [AXONE](https://axone.xyz) | AXONE Services Status & Update Time | <https://status.axone.xyz/> | ✅     |
 
 ## 🖥️ Applications
 
