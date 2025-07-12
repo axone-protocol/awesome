@@ -43,6 +43,7 @@
 | Type       | URL                                          | Status | Thanks To                  |
 | ---------- | -------------------------------------------- | ------ | -------------------------- |
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract> | ✅     | [AXONE](https://axone.xyz) |
+| Guide | https://nodesync.top/services/testnet/axone/installation | ✅ | [NODESYNC](https://nodesync.top) |
 
 ## 🔭 Block Explorers
 
