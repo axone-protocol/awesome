@@ -102,6 +102,7 @@
 
 | Thanks To | Type | URL | Description |
 | --------- | ---- | --- | ----------- |
+| NODESYNC | Cosmos Monitoring | https://t.me/NS_COSMOS_MONITORING_BOT | A powerful tool for comprehensive monitoring of Cosmos-based networks. |
 
 ## You want to get involved? 😍
 
