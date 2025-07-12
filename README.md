@@ -48,6 +48,7 @@
 
 | Thanks To | Explorer | URL | Status |
 | --------- | -------- | --- | ------ |
+| NODESYNC | Explorer | https://explorer.nodesync.top/Axone-Mainnet | ✅ |
 
 ## ⚙️ Services
 
