@@ -94,8 +94,9 @@
 
 ## 🖥️ Applications
 
-| Thanks To | URL | Repository | Status |
-| :-------: | :-: | :--------: | :----: |
+| Thanks To | URL | Repository | Description | Status |
+| :-------: | :-: | :--------: | ----------- | :----: |
+| [Keplr](https://www.keplr.app/) | <https://chains.keplr.app/> | [chainapsis/keplr-chain-registry](https://github.com/chainapsis/keplr-chain-registry) | Chain registry for integrating non-native chains into Keplr wallet | ✅ |
 
 ## 🤖 BOTs
 
