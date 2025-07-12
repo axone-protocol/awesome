@@ -17,21 +17,21 @@
 ### 💫 Official AXONE links
 
 - <img
-  src="assets/linktree.webp" style="width:15px;height:15px;"> [Linktree](https://linktr.ee/axonexyz)
+  src="assets/linktree.webp" alt="Linkedtree icon" style="width:15px;height:15px;"> [Linktree](https://linktr.ee/axonexyz)
 - <img
-  src="assets/website.webp" style="width:15px;height:15px;"> [Website](https://axone.xyz/)
+  src="assets/website.webp" alt="Website icon" style="width:15px;height:15px;"> [Website](https://axone.xyz/)
 - <img
-  src="assets/linkedin.webp" style="width:15px;height:15px;"> [LinkedIn](https://www.linkedin.com/company/axone-protocol)
+  src="assets/linkedin.webp" alt="LinkedIn icon" style="width:15px;height:15px;"> [LinkedIn](https://www.linkedin.com/company/axone-protocol)
 - <img
-  src="assets/twitter.webp" style="width:15px;height:15px;"> [Twitter](https://x.com/axonexyz)
+  src="assets/twitter.webp" alt="Twitter icon" style="width:15px;height:15px;"> [Twitter](https://x.com/axonexyz)
 - <img
-  src="assets/github.webp" style="width:15px;height:15px;"> [GitHub](https://github.com/axone-protocol)
+  src="assets/github.webp" alt="GitHub icon" style="width:15px;height:15px;"> [GitHub](https://github.com/axone-protocol)
 - <img
-  src="assets/telegram.webp" style="width:15px;height:15px;"> [Telegram](https://t.me/axonexyz)
+  src="assets/telegram.webp" alt="Telegram icon" style="width:15px;height:15px;"> [Telegram](https://t.me/axonexyz)
 - <img
-  src="assets/medium.webp" style="width:15px;height:15px;"> [Medium](https://blog.axone.xyz/)
+  src="assets/medium.webp" alt="Medium icon" style="width:15px;height:15px;"> [Medium](https://blog.axone.xyz/)
 - <img
-  src="assets/discord.webp" style="width:15px;height:15px;"> [Discord](https://discord.com/invite/axone)
+  src="assets/discord.webp" alt="Discord icon" style="width:15px;height:15px;"> [Discord](https://discord.com/invite/axone)
 
 ## 🔭 Block Explorers
 
