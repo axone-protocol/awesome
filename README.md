@@ -12,9 +12,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/axone-protocol/.github/blob/main/CODE_OF_CONDUCT.md)
 [![license](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
 
-## Resources
-
-### 💫 Official AXONE links
+## 💫 Official AXONE links
 
 - <img
   src="assets/linktree.webp" alt="Linkedtree icon" style="width:15px;height:15px;"> [Linktree](https://linktr.ee/axonexyz)
@@ -33,16 +31,23 @@
 - <img
   src="assets/discord.webp" alt="Discord icon" style="width:15px;height:15px;"> [Discord](https://discord.com/invite/axone)
 
-## 🔭 Block Explorers
+## 🌐 Networks
 
-| Thanks To | Explorer | URL | Status |
-| --------- | -------- | --- | ------ |
+| Network | Type | Description | URL | Status |
+| ------- | ---- | ----------- | --- | ------ |
+| `axone-1` | **mainnet** | Live Axone network | <https://github.com/axone-protocol/networks/blob/main/chains/1/README.md> | ✅ |
+| `axone-dentrite-1` | **testnet** | Playground for testing and experimentation | <https://github.com/axone-protocol/networks/blob/main/chains/dentrite-1/README.md> | ✅ |
 
 ## 📚 Documentation / Guides
 
 | Type       | URL                                          | Status | Thanks To                  |
 | ---------- | -------------------------------------------- | ------ | -------------------------- |
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract> | ✅     | [AXONE](https://axone.xyz) |
+
+## 🔭 Block Explorers
+
+| Thanks To | Explorer | URL | Status |
+| --------- | -------- | --- | ------ |
 
 ## ⚙️ Services
 
