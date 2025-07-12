@@ -48,49 +48,66 @@
 
 | Thanks To | Explorer | URL | Status |
 | --------- | -------- | --- | ------ |
-
+  catsmile  | Ping.hub | explorer.catsmile.cloud | LIVE     |
 ## ⚙️ Services
 
 > RPC
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| catsmile  | https://rpc-axone.catsmile.space | LIVE     |
 
 > API
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| catsmile  | https://api-axone.catsmile.space | LIVE     |
 
 > gRPC
 
 | Thanks To | URL |
 | --------- | --- |
-
+| catsmile  | https://grpc-axone.catsmile.space | LIVE     |
 > Addrbook
 
 | Thanks To | URL | Status |
 | --------- | --- | ------ |
-
+| catsmile  | https://files-axone.catsmile.space/addrbook.json | LIVE     |
 > Snapshot
 
 | Thanks To | URL | Status |
 | --------- | --- | ------ |
+| catsmile  | https://files-axone.catsmile.space/snapshot_latest.tar.lz4 | LIVE     |
 
 > State / Quick Sync
 
 | Thanks To | URL | Status |
 | --------- | --- | ------ |
+| catsmile  | https://rpc-axone.catsmile.space | LIVE     |
+# State Sync Config (Axone via catsmile)
+
+STATE_SYNC_RPC=https://rpc-axone.catsmile.space
+LATEST_HEIGHT=55797
+TRUST_HASH=8C46A11303E10BC31FEF47F90B2DF3EC3E8184D96EB09523E63BA61819350290
+
+sed -i.bak -e "s|^enable *=.*|enable = true|" \
+  -e "s|^rpc_servers *=.*|rpc_servers = \"$STATE_SYNC_RPC,$STATE_SYNC_RPC\"|" \
+  -e "s|^trust_height *=.*|trust_height = $LATEST_HEIGHT|" \
+  -e "s|^trust_hash *=.*|trust_hash = \"$TRUST_HASH\"|" \
+  -e "s|^seeds *=.*|seeds = \"\"|" \
+  -e "s|^persistent_peers *=.*|persistent_peers = \"\"|" \
+  ~/.axoned/config/config.toml
 
 > Live Peer
 
 | Thanks To | Live Peer |
 | --------- | --------- |
-
+| catsmile   | http://peer-axone.catsmile.space/peers.json | LIVE     |
 ## 📊 Dashboards
 
 | Thanks To                  | Type                                | URL                         | Status |
 | -------------------------- | ----------------------------------- | --------------------------- | ------ |
-| [AXONE](https://axone.xyz) | AXONE Services Status & Update Time | <https://status.axone.xyz/> | ✅     |
+| catsmile                   | Tool Monitoring Validator Realtime on Web | https://monitor-pro.catsmile.clou | LIVE     |
 
 ## 🖥️ Applications
 
