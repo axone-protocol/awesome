@@ -56,6 +56,7 @@
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| NODESYNC | https://axone-rpc.nodesync.top | ✅ |
 
 > API
 
@@ -87,6 +88,7 @@
 
 | Thanks To | Live Peer |
 | --------- | --------- |
+| NODESYNC | https://nodesync.top/services/mainnet/axone/api-sync#peers-scanner |
 
 ## 📊 Dashboards
 
