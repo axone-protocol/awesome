@@ -79,6 +79,7 @@
 
 | Thanks To | URL | Status |
 | --------- | --- | ------ |
+| NODESYNC | https://nodesync.top/services/mainnet/axone/api-sync/#snapshot | ✅ |
 
 > State / Quick Sync
 
