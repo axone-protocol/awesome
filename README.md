@@ -87,7 +87,7 @@
 | ---------------------------------------- | ------------------------------------------ |
 | [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-grpc.luckystar.asia/ |
 | Node39.TOP | [https://axone-grpc.node39.top](https://axone-grpc.node39.top) |
-| [dnsarz](https://dnsarz.xyz)  | https://grpc-axone.dnsarz.xyz | ✅ |
+| [dnsarz](https://dnsarz.xyz)  | https://grpc-axone.dnsarz.xyz |
 
 > Addrbook
 
