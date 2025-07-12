@@ -61,6 +61,7 @@
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| :NODESYNC: | :https://axone-api.nodesync.top: | :✅: |
 
 > gRPC
 
