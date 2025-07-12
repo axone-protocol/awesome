@@ -48,6 +48,7 @@
 
 | Thanks To | Explorer | URL | Status |
 | --------- | -------- | --- | ------ |
+| OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
 
 ## ⚙️ Services
 
@@ -55,11 +56,13 @@
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 
 > API
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
 
 > gRPC
 
@@ -102,6 +105,7 @@
 
 | Thanks To | Type | URL | Description |
 | --------- | ---- | --- | ----------- |
+| OneNov | Bash Script | [axone-autostake](https://github.com/OneNov0209/axone-auto-restake) | Shell script to automatically withdraw rewards and restake with Telegram notification |
 
 ## You want to get involved? 😍
 
