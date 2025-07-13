@@ -43,11 +43,13 @@
 | Type       | URL                                          | Status | Thanks To                  |
 | ---------- | -------------------------------------------- | ------ | -------------------------- |
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract> | ✅     | [AXONE](https://axone.xyz) |
+| Guide | https://nodesync.top/services/mainnet/axone/installation | ✅ | [NODESYNC](https://nodesync.top) |
 
 ## 🔭 Block Explorers
 
 | Thanks To | Explorer | URL | Status |
 | --------- | -------- | --- | ------ |
+| NODESYNC | Explorer | https://explorer.nodesync.top/Axone-Mainnet | ✅ |
 
 ## ⚙️ Services
 
@@ -55,11 +57,13 @@
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| NODESYNC | https://axone-rpc.nodesync.top | ✅ |
 
 > API
 
 | Thanks To | URL | Status |
 | :-------: | :-: | :----: |
+| NODESYNC | https://axone-api.nodesync.top | ✅ |
 
 > gRPC
 
@@ -75,6 +79,7 @@
 
 | Thanks To | URL | Status |
 | --------- | --- | ------ |
+| NODESYNC | https://nodesync.top/services/mainnet/axone/api-sync/#snapshot | ✅ |
 
 > State / Quick Sync
 
@@ -85,6 +90,7 @@
 
 | Thanks To | Live Peer |
 | --------- | --------- |
+| NODESYNC | https://nodesync.top/services/mainnet/axone/api-sync#peers-scanner |
 
 ## 📊 Dashboards
 
@@ -102,6 +108,7 @@
 
 | Thanks To | Type | URL | Description |
 | --------- | ---- | --- | ----------- |
+| NODESYNC | Cosmos Monitoring | https://t.me/NS_COSMOS_MONITORING_BOT | A powerful tool for comprehensive monitoring of Cosmos-based networks (Testnet and Mainnet) |
 
 ## You want to get involved? 😍
 
