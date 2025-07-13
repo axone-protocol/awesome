@@ -45,10 +45,7 @@
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract>                           | ✅     | [AXONE](https://axone.xyz)               |
 | Guide      | https://nodesync.top/services/mainnet/axone/installation               | ✅     | [NODESYNC](https://nodesync.top)         |
 | Guide      | https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone | ✅     | [LuckyStar](https://www.luckystar.asia/) |
-
-| Type       | URL                                          | Status | Thanks To                  |
-| ---------- | -------------------------------------------- | ------ | -------------------------- |
-| OneNov | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
+| Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 
 
 ## 🔭 Block Explorers
