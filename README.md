@@ -44,6 +44,11 @@
 | ---------- | -------------------------------------------- | ------ | -------------------------- |
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract> | ✅     | [AXONE](https://axone.xyz) |
 
+| Type       | URL                                          | Status | Thanks To                  |
+| ---------- | -------------------------------------------- | ------ | -------------------------- |
+| OneNov | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
+
+
 ## 🔭 Block Explorers
 
 | Thanks To | Explorer | URL | Status |
