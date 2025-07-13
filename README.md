@@ -40,9 +40,11 @@
 
 ## 📚 Documentation / Guides
 
-| Type       | URL                                          | Status | Thanks To                  |
-| ---------- | -------------------------------------------- | ------ | -------------------------- |
-| Whitepaper | <https://docs.axone.xyz/whitepaper/abstract> | ✅     | [AXONE](https://axone.xyz) |
+| Type       | URL                                                                    | Status | Thanks To                                |
+| ---------- | ---------------------------------------------------------------------- | ------ | ---------------------------------------- |
+| Whitepaper | <https://docs.axone.xyz/whitepaper/abstract>                           | ✅     | [AXONE](https://axone.xyz)               |
+| Guide      | https://nodesync.top/services/mainnet/axone/installation               | ✅     | [NODESYNC](https://nodesync.top)         |
+| Guide      | https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 
 | Type       | URL                                          | Status | Thanks To                  |
 | ---------- | -------------------------------------------- | ------ | -------------------------- |
@@ -51,38 +53,48 @@
 
 ## 🔭 Block Explorers
 
-| Thanks To | Explorer | URL | Status |
-| --------- | -------- | --- | ------ |
+| Thanks To                                | Explorer | URL                                           | Status |
+| ---------------------------------------- | -------- | --------------------------------------------- | ------ |
+| NODESYNC                                 | Explorer | https://explorer.nodesync.top/Axone-Mainnet   | ✅     |
+| [LuckyStar](https://www.luckystar.asia/) | Explorer | https://explorer.luckystar.asia/Axone-Mainnet | ✅     |
 | OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
 
 ## ⚙️ Services
 
 > RPC
 
-| Thanks To | URL | Status |
-| :-------: | :-: | :----: |
+|                Thanks To                 |                    URL                    | Status |
+| :--------------------------------------: | :---------------------------------------: | :----: |
+|                 NODESYNC                 |      https://axone-rpc.nodesync.top       |   ✅   |
+| [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-rpc.luckystar.asia/ |   ✅   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 
 > API
 
-| Thanks To | URL | Status |
-| :-------: | :-: | :----: |
+|                Thanks To                 |                    URL                    | Status |
+| :--------------------------------------: | :---------------------------------------: | :----: |
+|                 NODESYNC                 |      https://axone-api.nodesync.top       |   ✅   |
+| [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-api.luckystar.asia/ |   ✅   |
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
 
 > gRPC
 
-| Thanks To | URL |
-| --------- | --- |
+| Thanks To                                | URL                                        |
+| ---------------------------------------- | ------------------------------------------ |
+| [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-grpc.luckystar.asia/ |
 
 > Addrbook
 
-| Thanks To | URL | Status |
-| --------- | --- | ------ |
+| Thanks To                                | URL                                                               | Status |
+| ---------------------------------------- | ----------------------------------------------------------------- | ------ |
+| [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-services.luckystar.asia/axone/addrbook.json | ✅     |
 
 > Snapshot
 
-| Thanks To | URL | Status |
-| --------- | --- | ------ |
+| Thanks To                                | URL                                                                             | Status |
+| ---------------------------------------- | ------------------------------------------------------------------------------- | ------ |
+| NODESYNC                                 | https://nodesync.top/services/mainnet/axone/api-sync/#snapshot                  | ✅     |
+| [LuckyStar](https://www.luckystar.asia/) | https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot | ✅     |
 
 > State / Quick Sync
 
@@ -91,8 +103,9 @@
 
 > Live Peer
 
-| Thanks To | Live Peer |
-| --------- | --------- |
+| Thanks To | Live Peer                                                          |
+| --------- | ------------------------------------------------------------------ |
+| NODESYNC  | https://nodesync.top/services/mainnet/axone/api-sync#peers-scanner |
 
 ## 📊 Dashboards
 
@@ -108,8 +121,9 @@
 
 ## 🤖 BOTs
 
-| Thanks To | Type | URL | Description |
-| --------- | ---- | --- | ----------- |
+| Thanks To | Type              | URL                                   | Description                                                                                 |
+| --------- | ----------------- | ------------------------------------- | ------------------------------------------------------------------------------------------- |
+| NODESYNC  | Cosmos Monitoring | https://t.me/NS_COSMOS_MONITORING_BOT | A powerful tool for comprehensive monitoring of Cosmos-based networks (Testnet and Mainnet) |
 | OneNov | Bash Script | [axone-autostake](https://github.com/OneNov0209/axone-auto-restake) | Shell script to automatically withdraw rewards and restake with Telegram notification |
 
 ## You want to get involved? 😍
