@@ -46,7 +46,7 @@
 | Guide      | https://nodesync.top/services/mainnet/axone/installation               | ✅     | [NODESYNC](https://nodesync.top)         |
 | Guide      | https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
-
+| Guide | https://node39.top/docs/Mainnet/Axone/Installation | ✅     | [Node39.TOP](https://node39.top) |
 
 ## 🔭 Block Explorers
 
@@ -55,6 +55,7 @@
 | NODESYNC                                 | Explorer | https://explorer.nodesync.top/Axone-Mainnet   | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | Explorer | https://explorer.luckystar.asia/Axone-Mainnet | ✅     |
 | OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
+| Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
 
 ## ⚙️ Services
 
@@ -65,6 +66,7 @@
 |                 NODESYNC                 |      https://axone-rpc.nodesync.top       |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-rpc.luckystar.asia/ |   ✅   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
+| Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 
 > API
 
@@ -73,18 +75,21 @@
 |                 NODESYNC                 |      https://axone-api.nodesync.top       |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-api.luckystar.asia/ |   ✅   |
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
+| Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 
 > gRPC
 
 | Thanks To                                | URL                                        |
 | ---------------------------------------- | ------------------------------------------ |
 | [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-grpc.luckystar.asia/ |
+| Node39.TOP | [https://axone-grpc.node39.top](https://axone-grpc.node39.top) |
 
 > Addrbook
 
 | Thanks To                                | URL                                                               | Status |
 | ---------------------------------------- | ----------------------------------------------------------------- | ------ |
 | [LuckyStar](https://www.luckystar.asia/) | https://axone-mainnet-services.luckystar.asia/axone/addrbook.json | ✅     |
+| Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
 
 > Snapshot
 
@@ -92,11 +97,13 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------- | ------ |
 | NODESYNC                                 | https://nodesync.top/services/mainnet/axone/api-sync/#snapshot                  | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot | ✅     |
+| Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ✅ |
 
 > State / Quick Sync
 
 | Thanks To | URL | Status |
 | --------- | --- | ------ |
+| Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
 
 > Live Peer
 
@@ -118,10 +125,11 @@
 
 ## 🤖 BOTs
 
-| Thanks To | Type              | URL                                   | Description                                                                                 |
-| --------- | ----------------- | ------------------------------------- | ------------------------------------------------------------------------------------------- |
-| NODESYNC  | Cosmos Monitoring | https://t.me/NS_COSMOS_MONITORING_BOT | A powerful tool for comprehensive monitoring of Cosmos-based networks (Testnet and Mainnet) |
-| OneNov | Bash Script | [axone-autostake](https://github.com/OneNov0209/axone-auto-restake) | Shell script to automatically withdraw rewards and restake with Telegram notification |
+| Thanks To | Type              | URL                                   | Description                                                                                                                                                               |
+| --------- | ----------------- | ------------------------------------- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| NODESYNC  | Cosmos Monitoring | https://t.me/NS_COSMOS_MONITORING_BOT | A powerful tool for comprehensive monitoring of Cosmos-based networks (Testnet and Mainnet)                                                                               |
+| OneNov | Bash Script | [axone-autostake](https://github.com/OneNov0209/axone-auto-restake) | Shell script to automatically withdraw rewards and restake with Telegram notification                                                                                     |
+| Node39.TOP | Cosmos Monitor and Proposals | [https://t.me/node39_cosmos_monitor_bot](https://t.me/node39_cosmos_monitor_bot) | Automatically monitors proposals (voting), alerts on missed blocks, jail status, active\|inactive state. Helps you respond promptly, maintain uptime, and avoid slashing. |
 
 ## You want to get involved? 😍
 
