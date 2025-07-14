@@ -18,7 +18,16 @@ const parsedTable = parseMarkdownTables(readmeContent);
 const allLinksFromUrlsClm = parsedTable
     .map((table) => table.url)
     .flat()
-    .filter(Boolean);
+    .filter(Boolean)
+    .filter((url) => {
+        // Skip gRPC endpoints as they can't be validated with HTTP requests
+        // (weak validation)
+        if (url.includes('grpc') || url.includes(':30490')) {
+            console.log(`⏭️  Skipping gRPC endpoint: ${url}`);
+            return false;
+        }
+        return true;
+    });
 
 async function linksCheck(links) {
     const linkCheckResults = [];
