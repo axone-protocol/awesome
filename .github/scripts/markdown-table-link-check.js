@@ -34,8 +34,18 @@ async function linksCheck(links) {
 
     console.log(`Checking ${links.length} links...`);
     for (const link of links) {
+        let customOpts = { ...opt };
+
+        if (link.includes('snapshot') || link.includes('.tar') || link.includes('.gz') || link.includes('.lz4')) {
+            customOpts.timeout = '10s';
+            customOpts.headers = {
+                ...customOpts.headers,
+                'Range': 'bytes=0-0'
+            };
+        }
+
         const res = await new Promise((resolve) =>
-            linkCheck(link, opt, (_, result) => {
+            linkCheck(link, customOpts, (_, result) => {
                 if (!result) {
                     const errorResult = {
                         status: Status.DEAD,
