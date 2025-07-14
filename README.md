@@ -58,6 +58,7 @@
 | OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
 | Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
 | [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ✅ |
+| [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
 
 ## ⚙️ Services
 
@@ -70,6 +71,7 @@
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
+| [BITNODES](https://bitnodes.xyz/)  | <https://axone-rpc.bitnodes.xyz/> | ✅ |
 
 > API
 
@@ -80,6 +82,7 @@
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
+| [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ✅ |
 
 > gRPC
 
@@ -88,6 +91,7 @@
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-grpc.luckystar.asia/> |
 | Node39.TOP | [https://axone-grpc.node39.top](https://axone-grpc.node39.top) |
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
+| [BITNODES](https://bitnodes.xyz/)  | <https://axone-grpc.bitnodes.xyz/> |
 
 > Addrbook
 
@@ -119,6 +123,7 @@
 | --------- | ------------------------------------------------------------------ |
 | NODESYNC  | <https://nodesync.top/services/mainnet/axone/api-sync#peers-scanner> |
 | [dnsarz](https://dnsarz.xyz)  | da33085a5c4751727aa01c8051464b7ed1a3ad0d@209.209.11.190:33656 |
+| [BITNODES](https://bitnodes.xyz/)  | 2c68bc010ca84b1eb9fd825c5c10d7a229c7971e@78.46.36.203:17756 |
 
 ## 📊 Dashboards
 
