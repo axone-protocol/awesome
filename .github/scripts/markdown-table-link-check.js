@@ -27,6 +27,19 @@ async function linksCheck(links) {
     for (const link of links) {
         const res = await new Promise((resolve) =>
             linkCheck(link, opt, (_, result) => {
+                if (!result) {
+                    const errorResult = {
+                        status: Status.DEAD,
+                        statusCode: 0,
+                        link: link,
+                        err: "Link check failed - no result returned"
+                    };
+                    console.log(
+                        `${symbolDead} ${errorResult.statusCode} <${errorResult.link}> ➨ ${errorResult.err}`
+                    );
+                    return resolve(errorResult);
+                }
+
                 console.log(
                     `${
                         result.status === Status.DEAD ? symbolDead : symbolAlive
