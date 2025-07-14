@@ -48,6 +48,7 @@
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
 | Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
+| Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
 
 ## 🔭 Block Explorers
 
@@ -58,6 +59,7 @@
 | OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
 | Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
 | [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ✅ |
+| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
 
 ## ⚙️ Services
 
@@ -70,6 +72,7 @@
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
+| [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ✅ |
 
 > API
 
@@ -80,6 +83,7 @@
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
+| [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ✅ |
 
 > gRPC
 
@@ -88,6 +92,7 @@
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-grpc.luckystar.asia/> |
 | Node39.TOP | [https://axone-grpc.node39.top](https://axone-grpc.node39.top) |
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
+| [NodeVault](https://nodesvault.com) | <https://grpc.nodesvault.com> |
 
 > Addrbook
 
