@@ -20,7 +20,12 @@ function parseMarkdownTables(readmeContent) {
       );
     });
     const result = $(tableElement).find('td').map((i, element) => {
-      return $(element).text()
+      const link = $(element).find('a').first();
+      if (link.length > 0) {
+        return link.attr('href');
+      }
+
+      return $(element).text();
     });
     const partitioned = partition(result.toArray(), tableHeaders.length);
     const parsedTable = tableHeaders.reduce((acc, cur, index) => {
