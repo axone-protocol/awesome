@@ -84,6 +84,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://rpc-axone.provewithryd.xyz> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-rpc.codeblocklabs.com/](https://axone-rpc.codeblocklabs.com/) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
+| [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
 
 > API
 
@@ -98,7 +99,9 @@
 | [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ✅   |
 | [Ryddd](https://provewithryd.xyz) | <https://api-axone.provewithryd.xyz> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-api.codeblocklabs.com/](https://axone-api.codeblocklabs.com/) | ✅ |
+| [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ✅ |
+| [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 
 > gRPC
 
@@ -111,6 +114,7 @@
 | [Shazoes](https://services.shazoes.xyz) | axone-mainnet-api.shazoes.xyz:30490 |   ✅   |
 | [Ryddd](https://provewithryd.xyz) | <https://grpc-axone.provewithryd.xyz> | ✅     |
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
+| [Cumulo](https://cumulo.pro/)  | <https://grpc.axone.cumulo.com.es> |
 
 > Addrbook
 
@@ -136,6 +140,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/snapshot-and-state-sync> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
+| [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
 
 > State / Quick Sync
 
@@ -156,6 +161,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | 9a18bf741a0c6b7f8aa1cfdb93666e8999b77500@135.181.238.225:17056 |
 | [OwlStake](https://owlstake.com) | [https://services.owlstake.com/docs/mainnet/axone/#peering](https://services.owlstake.com/docs/mainnet/axone/#peering) |
+| [Cumulo](https://cumulo.pro/) | 88a89303f7efed5310d2333fc40940aaacac7d3d@217.160.102.31:26656 |
 
 ## 📊 Dashboards
 
