@@ -48,6 +48,7 @@
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
 | Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
+| Guides     | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
 
 ## 🔭 Block Explorers
 
@@ -59,6 +60,7 @@
 | Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
 | [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
+| [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
 
 ## ⚙️ Services
 
@@ -72,6 +74,7 @@
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-rpc.bitnodes.xyz/> | ✅ |
+| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ✅   |
 
 > API
 
@@ -83,6 +86,7 @@
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ✅ |
+| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ✅   |
 
 > gRPC
 
@@ -92,6 +96,7 @@
 | Node39.TOP | [https://axone-grpc.node39.top](https://axone-grpc.node39.top) |
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-grpc.bitnodes.xyz/> |
+| [Shazoes](https://services.shazoes.xyz) | axone-mainnet-api.shazoes.xyz:30490 |   ✅   |
 
 > Addrbook
 
@@ -100,6 +105,7 @@
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ✅     |
 | Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ✅ |
+| [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ✅     |
 
 > Snapshot
 
@@ -109,21 +115,24 @@
 | [LuckyStar](https://www.luckystar.asia/) | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot> | ✅     |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
+| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 
 > State / Quick Sync
 
-| Thanks To | URL | Status |
-| --------- | --- | ------ |
+| Thanks To                               | URL                                                | Status |
+| --------------------------------------- | -------------------------------------------------- | ------ |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
+| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 
 > Live Peer
 
 | Thanks To | Live Peer                                                          |
 | --------- | ------------------------------------------------------------------ |
 | NODESYNC  | <https://nodesync.top/services/mainnet/axone/api-sync#peers-scanner> |
-| [dnsarz](https://dnsarz.xyz)  | da33085a5c4751727aa01c8051464b7ed1a3ad0d@209.209.11.190:33656 |
-| [BITNODES](https://bitnodes.xyz/)  | 2c68bc010ca84b1eb9fd825c5c10d7a229c7971e@78.46.36.203:17756 |
+| [dnsarz](https://dnsarz.xyz) | da33085a5c4751727aa01c8051464b7ed1a3ad0d@209.209.11.190:33656 |
+| [BITNODES](https://bitnodes.xyz/) | 2c68bc010ca84b1eb9fd825c5c10d7a229c7971e@78.46.36.203:17756 |
+| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> |
 
 ## 📊 Dashboards
 
