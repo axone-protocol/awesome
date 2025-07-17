@@ -53,6 +53,7 @@
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
 | Installation | <https://services.owlstake.com/docs/mainnet/axone/installation> | ✅     | [OwlStake](https://owlstake.com) |
 | Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
+| Guide | https://www.catsmile.cloud/Mainnet/axone | ✅     | [catsmile](https://www.catsmile.cloud/) |
 
 ## 🔭 Block Explorers
 
@@ -68,6 +69,7 @@
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
 | [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
+| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | https://explorer.catsmile.cloud/axone-mainnet | ✅     |
 
 ## ⚙️ Services
 
@@ -87,6 +89,7 @@
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | https://rpc-axone.catsmile.space | ✅ |
 
 > API
 
@@ -105,6 +108,7 @@
 | [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | https://api-axone.catsmile.space | ✅ |
 
 > gRPC
 
@@ -119,6 +123,7 @@
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
 | [Cumulo](https://cumulo.pro/)  | <https://grpc.axone.cumulo.com.es> |
 | [StakeAngle](https://stakeangle.com/)  | <http://axone-rpc.stakeangle.com:41790> |
+| [catsmile](https://www.catsmile.cloud/)  | https://grpc-axone.catsmile.space |
 
 > Addrbook
 
@@ -131,6 +136,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://green.codeblocklabs.com/mainnet/axone/addrbook.json](https://green.codeblocklabs.com/mainnet/axone/addrbook.json) | ✅
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | https://files-axone.catsmile.space/addrbook.json | ✅ |
 
 > Snapshot
 
@@ -145,6 +151,7 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | https://files-axone.catsmile.space/snapshot_latest.tar.lz4 | ✅ |
 
 > State / Quick Sync
 
@@ -167,6 +174,7 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | 9a18bf741a0c6b7f8aa1cfdb93666e8999b77500@135.181.238.225:17056 |
 | [OwlStake](https://owlstake.com) | [https://services.owlstake.com/docs/mainnet/axone/#peering](https://services.owlstake.com/docs/mainnet/axone/#peering) |
 | [Cumulo](https://cumulo.pro/) | 88a89303f7efed5310d2333fc40940aaacac7d3d@217.160.102.31:26656 |
+| [catsmile](https://www.catsmile.cloud/)  | http://peer-axone.catsmile.space/peers.json | 
 
 ## 📊 Dashboards
 
@@ -176,6 +184,7 @@
 | [OwlStake](https://owlstake.com) | RPC Scanner | <https://services.owlstake.com/docs/mainnet/axone/public-rpc> | ✅     |
 | [OwlStake](https://owlstake.com) | Decentralization Analytics | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅     |
 | [OwlStake](https://owlstake.com) | Onchain Analytics (Building) | <https://dashboard.owlstake.com/axone> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator | <https://monitor-pro.catsmile.cloud/> | ✅     |
 
 ## 🖥️ Applications
 
