@@ -66,7 +66,6 @@
 | OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
 | Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
 | [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ✅ |
-| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
