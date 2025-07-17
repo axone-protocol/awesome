@@ -53,7 +53,7 @@
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
 | Installation | <https://services.owlstake.com/docs/mainnet/axone/installation> | ✅     | [OwlStake](https://owlstake.com) |
 | Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
-| Guide | https://www.catsmile.cloud/Mainnet/axone | ✅     | [catsmile](https://www.catsmile.cloud/) |
+| Guide | <https://www.catsmile.cloud/Mainnet/axone> | ✅     | [catsmile](https://www.catsmile.cloud/) |
 | Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
 | Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
 
@@ -71,7 +71,7 @@
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
 | [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
-| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | https://explorer.catsmile.cloud/axone-mainnet | ✅     |
+| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ✅     |
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
 | [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
 
@@ -93,7 +93,7 @@
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
-| [catsmile](https://www.catsmile.cloud/)  | https://rpc-axone.catsmile.space | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | <https://rpc-axone.catsmile.space> | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ✅ |
 | [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ✅ |
 
@@ -114,10 +114,9 @@
 | [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
-| [catsmile](https://www.catsmile.cloud/)  | https://api-axone.catsmile.space | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ✅ |
 | [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ✅ |
-
 
 > gRPC
 
@@ -132,10 +131,9 @@
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
 | [Cumulo](https://cumulo.pro/)  | <https://grpc.axone.cumulo.com.es> |
 | [StakeAngle](https://stakeangle.com/)  | <http://axone-rpc.stakeangle.com:41790> |
-| [catsmile](https://www.catsmile.cloud/)  | https://grpc-axone.catsmile.space |
+| [catsmile](https://www.catsmile.cloud/)  | <https://grpc-axone.catsmile.space> |
 | [Winsnip](https://service.winsnip.xyz) | <https://grpc-axone.winsnip.site> |
 | [NodeVault](https://nodesvault.com) | <https://grpc.nodesvault.com> |
-
 
 > Addrbook
 
@@ -148,7 +146,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://green.codeblocklabs.com/mainnet/axone/addrbook.json](https://green.codeblocklabs.com/mainnet/axone/addrbook.json) | ✅
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
-| [catsmile](https://www.catsmile.cloud/)  | https://files-axone.catsmile.space/addrbook.json | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/addrbook.json> | ✅ |
 
 > Snapshot
 
@@ -163,7 +161,7 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
-| [catsmile](https://www.catsmile.cloud/)  | https://files-axone.catsmile.space/snapshot_latest.tar.lz4 | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/snapshot_latest.tar.lz4> | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
 
 > State / Quick Sync
@@ -187,7 +185,7 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | 9a18bf741a0c6b7f8aa1cfdb93666e8999b77500@135.181.238.225:17056 |
 | [OwlStake](https://owlstake.com) | [https://services.owlstake.com/docs/mainnet/axone/#peering](https://services.owlstake.com/docs/mainnet/axone/#peering) |
 | [Cumulo](https://cumulo.pro/) | 88a89303f7efed5310d2333fc40940aaacac7d3d@217.160.102.31:26656 |
-| [catsmile](https://www.catsmile.cloud/)  | http://peer-axone.catsmile.space/peers.json | 
+| [catsmile](https://www.catsmile.cloud/)  | <http://peer-axone.catsmile.space/peers.json> |
 
 ## 📊 Dashboards
 
