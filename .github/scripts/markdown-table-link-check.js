@@ -18,15 +18,47 @@ const parsedTable = parseMarkdownTables(readmeContent);
 const allLinksFromUrlsClm = parsedTable
     .map((table) => table.url)
     .flat()
-    .filter(Boolean);
+    .filter(Boolean)
+    .filter((url) => {
+        // Skip gRPC endpoints as they can't be validated with HTTP requests
+        // (weak validation)
+        if (url.includes('grpc') || url.includes(':30490')) {
+            console.log(`⏭️  Skipping gRPC endpoint: ${url}`);
+            return false;
+        }
+        return true;
+    });
 
 async function linksCheck(links) {
     const linkCheckResults = [];
 
     console.log(`Checking ${links.length} links...`);
     for (const link of links) {
+        let customOpts = { ...opt };
+
+        if (link.includes('snapshot') || link.includes('.tar') || link.includes('.gz') || link.includes('.lz4')) {
+            customOpts.timeout = '10s';
+            customOpts.headers = {
+                ...customOpts.headers,
+                'Range': 'bytes=0-0'
+            };
+        }
+
         const res = await new Promise((resolve) =>
-            linkCheck(link, opt, (_, result) => {
+            linkCheck(link, customOpts, (_, result) => {
+                if (!result) {
+                    const errorResult = {
+                        status: Status.DEAD,
+                        statusCode: 0,
+                        link: link,
+                        err: "Link check failed - no result returned"
+                    };
+                    console.log(
+                        `${symbolDead} ${errorResult.statusCode} <${errorResult.link}> ➨ ${errorResult.err}`
+                    );
+                    return resolve(errorResult);
+                }
+
                 console.log(
                     `${
                         result.status === Status.DEAD ? symbolDead : symbolAlive
