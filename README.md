@@ -48,7 +48,6 @@
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
 | Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
-| Guide     | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
 | Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
 | Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ✅     | [Ryddd](https://provewithryd.xyz) |
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
