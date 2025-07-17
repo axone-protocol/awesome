@@ -47,7 +47,7 @@
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
-| Guide     | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
+| Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
 | Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
 | Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ✅     | [Ryddd](https://provewithryd.xyz) |
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
@@ -55,6 +55,7 @@
 | Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
 | Guide | https://www.catsmile.cloud/Mainnet/axone | ✅     | [catsmile](https://www.catsmile.cloud/) |
 | Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
+| Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
 
 ## 🔭 Block Explorers
 
@@ -72,6 +73,7 @@
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
 | [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | https://explorer.catsmile.cloud/axone-mainnet | ✅     |
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
+| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
 
 ## ⚙️ Services
 
@@ -93,6 +95,7 @@
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | https://rpc-axone.catsmile.space | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ✅ |
+| [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ✅ |
 
 > API
 
@@ -113,6 +116,8 @@
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
 | [catsmile](https://www.catsmile.cloud/)  | https://api-axone.catsmile.space | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ✅ |
+| [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ✅ |
+
 
 > gRPC
 
@@ -129,6 +134,8 @@
 | [StakeAngle](https://stakeangle.com/)  | <http://axone-rpc.stakeangle.com:41790> |
 | [catsmile](https://www.catsmile.cloud/)  | https://grpc-axone.catsmile.space |
 | [Winsnip](https://service.winsnip.xyz) | <https://grpc-axone.winsnip.site> |
+| [NodeVault](https://nodesvault.com) | <https://grpc.nodesvault.com> |
+
 
 > Addrbook
 
