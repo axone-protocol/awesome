@@ -54,6 +54,7 @@
 | Installation | <https://services.owlstake.com/docs/mainnet/axone/installation> | ✅     | [OwlStake](https://owlstake.com) |
 | Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
 | Guide | https://www.catsmile.cloud/Mainnet/axone | ✅     | [catsmile](https://www.catsmile.cloud/) |
+| Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
 
 ## 🔭 Block Explorers
 
@@ -70,6 +71,7 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
 | [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | https://explorer.catsmile.cloud/axone-mainnet | ✅     |
+| [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
 
 ## ⚙️ Services
 
@@ -90,6 +92,7 @@
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | https://rpc-axone.catsmile.space | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ✅ |
 
 > API
 
@@ -109,6 +112,7 @@
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
 | [catsmile](https://www.catsmile.cloud/)  | https://api-axone.catsmile.space | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ✅ |
 
 > gRPC
 
@@ -124,6 +128,7 @@
 | [Cumulo](https://cumulo.pro/)  | <https://grpc.axone.cumulo.com.es> |
 | [StakeAngle](https://stakeangle.com/)  | <http://axone-rpc.stakeangle.com:41790> |
 | [catsmile](https://www.catsmile.cloud/)  | https://grpc-axone.catsmile.space |
+| [Winsnip](https://service.winsnip.xyz) | <https://grpc-axone.winsnip.site> |
 
 > Addrbook
 
@@ -152,6 +157,7 @@
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | https://files-axone.catsmile.space/snapshot_latest.tar.lz4 | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
 
 > State / Quick Sync
 
