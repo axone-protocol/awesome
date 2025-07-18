@@ -194,7 +194,7 @@
 | [OwlStake](https://owlstake.com) | [https://services.owlstake.com/docs/mainnet/axone/#peering](https://services.owlstake.com/docs/mainnet/axone/#peering) |
 | [Cumulo](https://cumulo.pro/) | 88a89303f7efed5310d2333fc40940aaacac7d3d@217.160.102.31:26656 |
 | [catsmile](https://www.catsmile.cloud/)  | <http://peer-axone.catsmile.space/peers.json> |
-| [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/peers> |
+| [Vinjan.Inc](https://service.vinjan.xyz) | aa6054a53f0f57831e74af4a34bd1f58f5676307@65.21.234.111:10556 |
 
 ## 📊 Dashboards
 
