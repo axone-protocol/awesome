@@ -57,6 +57,7 @@
 | Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
 | Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
 | Guide | <https://service.vinjan.xyz/mainnet/axone/installation> | ✅     | [Vinjan.Inc](https://service.vinjan.xyz) |
+| Guide | <https://bitnodes.xyz/axonemainnet> | ✅     | [BITNODES](https://bitnodes.xyz/) |
 
 ## 🔭 Block Explorers
 
@@ -153,6 +154,7 @@
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/addrbook.json> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://snap.vinjan.xyz/axone/addrbook.json> | ✅ |
+| [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ✅ |
 
 > Snapshot
 
@@ -170,6 +172,7 @@
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/snapshot_latest.tar.lz4> | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/snapshot> | ✅ |
+| [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ✅ |
 
 > State / Quick Sync
 
