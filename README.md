@@ -143,8 +143,7 @@
 | [Winsnip](https://service.winsnip.xyz) | <https://grpc-axone.winsnip.site> |
 | [NodeVault](https://nodesvault.com) | <https://grpc.nodesvault.com> |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://grpc-axone.vinjan.xyz> |
-| [NODERS](https://noders.team) | <axone-grpc.noders.services:443> | ✅ |
-
+| [NODERS](https://noders.team) | <axone-grpc.noders.services:443> |
 > Addrbook
 
 | Thanks To                                | URL                                                               | Status |
