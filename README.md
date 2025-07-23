@@ -47,11 +47,19 @@
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
-| Guide     | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
+| Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
 | Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
 | Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ✅     | [Ryddd](https://provewithryd.xyz) |
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
 | Installation | <https://services.owlstake.com/docs/mainnet/axone/installation> | ✅     | [OwlStake](https://owlstake.com) |
+| Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
+| Guide | <https://www.catsmile.cloud/Mainnet/axone> | ✅     | [catsmile](https://www.catsmile.cloud/) |
+| Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
+| Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
+| Guide | <https://service.vinjan.xyz/mainnet/axone/installation> | ✅     | [Vinjan.Inc](https://service.vinjan.xyz) |
+| Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
+| Guide | <https://maouam.xyz/axone/> | ✅     | [Maouam Nodelab](https://maouam.xyz) |
+| Guide | <https://bitnodes.xyz/axonemainnet> | ✅     | [BITNODES](https://bitnodes.xyz/) |
 
 ## 🔭 Block Explorers
 
@@ -67,6 +75,11 @@
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
 | [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
+| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ✅     |
+| [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
+| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
 
 ## ⚙️ Services
 
@@ -85,6 +98,13 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-rpc.codeblocklabs.com/](https://axone-rpc.codeblocklabs.com/) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
+| [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | <https://rpc-axone.catsmile.space> | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ✅ |
+| [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ✅ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://rpc-axone.vinjan.xyz> | ✅ |
+| [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ✅ |
 
 > API
 
@@ -102,6 +122,13 @@
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
+| [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ✅ |
+| [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ✅ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ✅ |
+| [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ✅ |
 
 > gRPC
 
@@ -115,6 +142,13 @@
 | [Ryddd](https://provewithryd.xyz) | <https://grpc-axone.provewithryd.xyz> | ✅     |
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
 | [Cumulo](https://cumulo.pro/)  | <https://grpc.axone.cumulo.com.es> |
+| [StakeAngle](https://stakeangle.com/)  | <http://axone-rpc.stakeangle.com:41790> |
+| [catsmile](https://www.catsmile.cloud/)  | <https://grpc-axone.catsmile.space> |
+| [Winsnip](https://service.winsnip.xyz) | <https://grpc-axone.winsnip.site> |
+| [NodeVault](https://nodesvault.com) | <https://grpc.nodesvault.com> |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://grpc-axone.vinjan.xyz> |
+| [NODERS](https://noders.team) | <axone-grpc.noders.services:443> |
+| [Maouam Nodelab](https://maouam.xyz) | <https://grpc-axone-mainnet.maouam.xyz> |
 
 > Addrbook
 
@@ -127,6 +161,11 @@
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://green.codeblocklabs.com/mainnet/axone/addrbook.json](https://green.codeblocklabs.com/mainnet/axone/addrbook.json) | ✅
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
+| [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/addrbook.json> | ✅ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://snap.vinjan.xyz/axone/addrbook.json> | ✅ |
+| [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ✅ |
+| [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ✅ |
 
 > Snapshot
 
@@ -141,6 +180,12 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/snapshot_latest.tar.lz4> | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/snapshot> | ✅ |
+| [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/snapshot> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ✅ |
+| [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ✅ |
 
 > State / Quick Sync
 
@@ -149,6 +194,9 @@
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
+| [StakeAngle](https://stakeangle.com/)  | <https://services.stakeangle.com/mainnets/axone/state-sync> | ✅ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/statesync> | ✅ |
+| [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/statesync> | ✅ |
 
 > Live Peer
 
@@ -162,16 +210,29 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | 9a18bf741a0c6b7f8aa1cfdb93666e8999b77500@135.181.238.225:17056 |
 | [OwlStake](https://owlstake.com) | [https://services.owlstake.com/docs/mainnet/axone/#peering](https://services.owlstake.com/docs/mainnet/axone/#peering) |
 | [Cumulo](https://cumulo.pro/) | 88a89303f7efed5310d2333fc40940aaacac7d3d@217.160.102.31:26656 |
+| [catsmile](https://www.catsmile.cloud/)  | <http://peer-axone.catsmile.space/peers.json> |
+| [Vinjan.Inc](https://service.vinjan.xyz) | aa6054a53f0f57831e74af4a34bd1f58f5676307@65.21.234.111:10556 |
+| [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/seeds-and-peers> |
 
 ## 📊 Dashboards
 
-| Thanks To                  | Type                                | URL                         | Status |
-| -------------------------- | ----------------------------------- | --------------------------- | ------ |
-| [AXONE](https://axone.xyz) | AXONE Services Status & Update Time | <https://status.axone.xyz/> | ✅     |
-| [OwlStake](https://owlstake.com) | RPC Scanner | <https://services.owlstake.com/docs/mainnet/axone/public-rpc> | ✅     |
-| [OwlStake](https://owlstake.com) | Decentralization Analytics | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅     |
-| [OwlStake](https://owlstake.com) | Onchain Analytics (Building) | <https://dashboard.owlstake.com/axone> | ✅     |
-| [OneNov](https://onenov.xyz) | Validator Monitoring Dashboard | <https://dashboard-axone.onenov.xyz/> | ✅     |
+## 📊 Dashboards
+
+| Thanks To                       | Type                                | URL                                                             | Status |
+
+| ------------------------------ | ----------------------------------- | --------------------------------------------------------------- | ------ |
+
+| [AXONE](https://axone.xyz)     | AXONE Services Status & Update Time | <https://status.axone.xyz/>                                     | ✅     |
+
+| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator              | <https://monitor-pro.catsmile.cloud/>                           | ✅     |
+
+| [ONENOV](https://onenov.xyz)   | Validator Monitoring Dashboard       | <https://dashboard-axone.onenov.xyz/>                           | ✅     |
+
+| [OwlStake](https://owlstake.com) | RPC Scanner                         | <https://services.owlstake.com/docs/mainnet/axone/public-rpc>   | ✅     |
+
+| [OwlStake](https://owlstake.com) | Decentralization Analytics          | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅ |
+
+| [OwlStake](https://owlstake.com) | Onchain Analytics (Building)        | <https://dashboard.owlstake.com/axone>                          | ✅     |
 
 ## 🖥️ Applications
 
