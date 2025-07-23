@@ -1,0 +1,25 @@
+language: "en-US"
+early_access: true
+tone_instructions: >-
+  Use a calm, constructive tone suited for a community-driven project. Favor guidance over enforcement.
+  Focus on clarity, relevance, and helpful suggestions that support collective curation.
+reviews:
+  profile: "chill"
+  request_changes_workflow: true
+  high_level_summary: true
+  poem: false
+  review_status: true
+  collapse_walkthrough: false
+  path_instructions:
+    - path: "README.md"
+      instructions: >-
+        This is an "awesome" repository — a curated list of valuable resources.
+        Review the Markdown content with a focus on editorial quality and curation intent.
+        For entries in tables, adapt to the format: if a description column is present, it should be meaningful and clear.
+        Ensure all content aligns with the spirit of a well-maintained, community-driven list.
+  auto_review:
+    enabled: true
+    drafts: false
+    auto_incremental_review: false # review on demand
+chat:
+  auto_reply: true
