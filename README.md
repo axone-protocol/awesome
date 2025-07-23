@@ -240,11 +240,20 @@
 | OneNov | Bash Script | [axone-autostake](https://github.com/OneNov0209/axone-auto-restake) | Shell script to automatically withdraw rewards and restake with Telegram notification                                                                                     |
 | Node39.TOP | Cosmos Monitor and Proposals | [https://t.me/node39_cosmos_monitor_bot](https://t.me/node39_cosmos_monitor_bot) | Automatically monitors proposals (voting), alerts on missed blocks, jail status, active\|inactive state. Helps you respond promptly, maintain uptime, and avoid slashing. |
 
-## You want to get involved? 😍
+## Be part of it 🫵
 
-Please submit a pull request if you know any resources that might be helpful to the community. ❤️
+This repo is a tribute to _builders_, _tinkerers_, and _explorers_ around [Axone](https://axone.xyz) and beyond.
+If your work belongs here - say so.
 
-Don't forget to check out AXONE health files:
+1. → FORK it
+2. → ADD it
+3. → PR it
 
-- [Contributing](https://github.com/axone-protocol/.github/blob/main/CONTRIBUTING.md)
-- [Code of conduct](https://github.com/axone-protocol/.github/blob/main/CODE_OF_CONDUCT.md)
+You're in.
+
+<sub>psst… because community matters:</sub>
+
+<ul>
+  <li><sub><a href="https://github.com/axone-protocol/.github/blob/main/CONTRIBUTING.md">Read the contributing guide</a></sub></li>
+  <li><sub><a href="https://github.com/axone-protocol/.github/blob/main/CODE_OF_CONDUCT.md">Respect the code of conduct</a></sub></li>
+</ul>
