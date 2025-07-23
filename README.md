@@ -216,23 +216,14 @@
 
 ## 📊 Dashboards
 
-## 📊 Dashboards
-
-| Thanks To                       | Type                                | URL                                                             | Status |
-
+| Thanks To                       | Type                               | URL                                                             | Status |
 | ------------------------------ | ----------------------------------- | --------------------------------------------------------------- | ------ |
-
 | [AXONE](https://axone.xyz)     | AXONE Services Status & Update Time | <https://status.axone.xyz/>                                     | ✅     |
-
-| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator              | <https://monitor-pro.catsmile.cloud/>                           | ✅     |
-
-| [ONENOV](https://onenov.xyz)   | Validator Monitoring Dashboard       | <https://dashboard-axone.onenov.xyz/>                           | ✅     |
-
-| [OwlStake](https://owlstake.com) | RPC Scanner                         | <https://services.owlstake.com/docs/mainnet/axone/public-rpc>   | ✅     |
-
-| [OwlStake](https://owlstake.com) | Decentralization Analytics          | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅ |
-
-| [OwlStake](https://owlstake.com) | Onchain Analytics (Building)        | <https://dashboard.owlstake.com/axone>                          | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator      | <https://monitor-pro.catsmile.cloud/>                           | ✅     |
+| [ONENOV](https://onenov.xyz)   | Validator Monitoring Dashboard      | <https://dashboard-axone.onenov.xyz/>                           | ✅     |
+| [OwlStake](https://owlstake.com) | RPC Scanner                       | <https://services.owlstake.com/docs/mainnet/axone/public-rpc>   | ✅     |
+| [OwlStake](https://owlstake.com) | Decentralization Analytics        | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅ |
+| [OwlStake](https://owlstake.com) | Onchain Analytics (Building)      | <https://dashboard.owlstake.com/axone>                          | ✅     |
 
 ## 🖥️ Applications
 
