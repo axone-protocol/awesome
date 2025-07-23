@@ -171,6 +171,7 @@
 | [OwlStake](https://owlstake.com) | RPC Scanner | <https://services.owlstake.com/docs/mainnet/axone/public-rpc> | ✅     |
 | [OwlStake](https://owlstake.com) | Decentralization Analytics | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅     |
 | [OwlStake](https://owlstake.com) | Onchain Analytics (Building) | <https://dashboard.owlstake.com/axone> | ✅     |
+| [OneNov](https://onenov.xyz) | Validator Monitoring Dashboard | <https://dashboard-axone.onenov.xyz/> | ✅     |
 
 ## 🖥️ Applications
 
