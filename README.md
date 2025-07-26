@@ -48,7 +48,7 @@
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
 | Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
-| Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
+| Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ❌     | [Shazoes](https://services.shazoes.xyz) |
 | Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ✅     | [Ryddd](https://provewithryd.xyz) |
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
 | Installation | <https://services.owlstake.com/docs/mainnet/axone/installation> | ✅     | [OwlStake](https://owlstake.com) |
@@ -72,7 +72,7 @@
 | Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
 | [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
+| [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ❌     |
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
 | [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
@@ -94,7 +94,7 @@
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-rpc.bitnodes.xyz/> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ✅   |
+| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ❌   |
 | [Ryddd](https://provewithryd.xyz) | <https://rpc-axone.provewithryd.xyz> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-rpc.codeblocklabs.com/](https://axone-rpc.codeblocklabs.com/) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
@@ -117,7 +117,7 @@
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ✅   |
+| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ❌   |
 | [Ryddd](https://provewithryd.xyz) | <https://api-axone.provewithryd.xyz> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-api.codeblocklabs.com/](https://axone-api.codeblocklabs.com/) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
@@ -158,7 +158,7 @@
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ✅     |
 | Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ✅     |
+| [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ❌     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://green.codeblocklabs.com/mainnet/axone/addrbook.json](https://green.codeblocklabs.com/mainnet/axone/addrbook.json) | ✅
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
@@ -176,7 +176,7 @@
 | [LuckyStar](https://www.luckystar.asia/) | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot> | ✅     |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
+| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ❌     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/snapshot-and-state-sync> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
@@ -194,7 +194,7 @@
 | --------------------------------------- | -------------------------------------------------- | ------ |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
+| [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ❌     |
 | [StakeAngle](https://stakeangle.com/)  | <https://services.stakeangle.com/mainnets/axone/state-sync> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/statesync> | ✅ |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/statesync> | ✅ |
