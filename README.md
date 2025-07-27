@@ -43,6 +43,7 @@
 | Type      | URL                                                                    | Status | Thanks To                                |
 | --------- | ---------------------------------------------------------------------- | ------ | ---------------------------------------- |
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract>                           | ✅     | [AXONE](https://axone.xyz)               |
+| Guide     | <https://bccnodes.com/services/axone>               | ✅     | [BccNodes](https://bccnodes.com)         |
 | Guide     | <https://nodesync.top/services/mainnet/axone/installation>               | ✅     | [NODESYNC](https://nodesync.top)         |
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
@@ -88,6 +89,7 @@
 
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
+| [BccNodes](https://bccnodes.com) | <https://axone.rpc.bccnodes.com> |   ✅   |
 |                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ✅   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
@@ -111,6 +113,7 @@
 
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
+| [BccNodes](https://bccnodes.com) | <https://axone.lcd.bccnodes.com> |   ✅   |
 |                 NODESYNC                 |      <https://axone-api.nodesync.top>       |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ✅   |
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
@@ -135,6 +138,7 @@
 
 | Thanks To                                | URL                                        |
 | ---------------------------------------- | ------------------------------------------ |
+| [BccNodes](https://bccnodes.com) | <axone.grpc.bccnodes.com:9090> |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-grpc.luckystar.asia/> |
 | Node39.TOP | [https://axone-grpc.node39.top](https://axone-grpc.node39.top) |
 | [dnsarz](https://dnsarz.xyz)  | <https://grpc-axone.dnsarz.xyz> |
@@ -155,6 +159,7 @@
 
 | Thanks To                                | URL                                                               | Status |
 | ---------------------------------------- | ----------------------------------------------------------------- | ------ |
+| [BccNodes](https://bccnodes.com) | <https://services.bccnodes.com/mainnets/axone/addrbook.json> | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ✅     |
 | Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ✅ |
@@ -172,6 +177,7 @@
 
 | Thanks To                                | URL                                                                             | Status |
 | ---------------------------------------- | ------------------------------------------------------------------------------- | ------ |
+| BccNodes                                 | <https://bccnodes.com/services/axone/>                  | ✅     |
 | NODESYNC                                 | <https://nodesync.top/services/mainnet/axone/api-sync/#snapshot>                  | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot> | ✅     |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ✅ |
@@ -192,6 +198,7 @@
 
 | Thanks To                               | URL                                                | Status |
 | --------------------------------------- | -------------------------------------------------- | ------ |
+| [BccNodes](https://bccnodes.com)  | <https://bccnodes.com/services/axone> | ✅ |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
@@ -203,6 +210,7 @@
 
 | Thanks To | Live Peer                                                          |
 | --------- | ------------------------------------------------------------------ |
+| BccNodes  | <https://bccnodes.com/services/axone> |
 | NODESYNC  | <https://nodesync.top/services/mainnet/axone/api-sync#peers-scanner> |
 | [dnsarz](https://dnsarz.xyz) | da33085a5c4751727aa01c8051464b7ed1a3ad0d@209.209.11.190:33656 |
 | [BITNODES](https://bitnodes.xyz/) | 2c68bc010ca84b1eb9fd825c5c10d7a229c7971e@78.46.36.203:17756 |
