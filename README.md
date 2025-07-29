@@ -40,47 +40,41 @@
 
 ## 📚 Documentation / Guides
 
-| Type      | URL                                                                    | Status | Thanks To                                |
-| --------- | ---------------------------------------------------------------------- | ------ | ---------------------------------------- |
-| Whitepaper | <https://docs.axone.xyz/whitepaper/abstract>                           | ✅     | [AXONE](https://axone.xyz)               |
-| Guide     | <https://nodesync.top/services/mainnet/axone/installation>               | ✅     | [NODESYNC](https://nodesync.top)         |
-| Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
-| Guide | <https://www.onenov.xyz/axone.html> | ✅     | [OneNov](https://onenov.xyz) |
-| Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
-| Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
-| Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
-| Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ✅     | [Ryddd](https://provewithryd.xyz) |
-| Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
-| Installation | <https://services.owlstake.com/docs/mainnet/axone/installation> | ✅     | [OwlStake](https://owlstake.com) |
-| Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
-| Guide | <https://www.catsmile.cloud/Mainnet/axone> | ✅     | [catsmile](https://www.catsmile.cloud/) |
-| Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
-| Guide      | <https://nodesvault.com/services/axone> | ❌    | [NodeVault](https://nodesvault.com) |
-| Guide | <https://service.vinjan.xyz/mainnet/axone/installation> | ✅     | [Vinjan.Inc](https://service.vinjan.xyz) |
-| Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
-| Guide | <https://maouam.xyz/axone/> | ✅     | [Maouam Nodelab](https://maouam.xyz) |
-| Guide | <https://bitnodes.xyz/axonemainnet> | ✅     | [BITNODES](https://bitnodes.xyz/) |
-| Guide | <https://boygau.top/guide/mainet/axone.html> | ✅ | [BoyGau](https://boygau.top) |
+| Judul                                   | URL                                                                                   | Status | Sumber                                                                                   |
+|----------------------------------------|----------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------|
+| Whitepaper                             | https://docs.okp4.network/whitepaper/abstract                                         | ✅     | [OKP4](https://github.com/okp4)                                                          |
+| Nodes & Validator Guide                | https://docs.okp4.network/nodes/introduction                                          | ❌     | [OKP4](https://github.com/okp4)                                                          |
+| Nodes & Validator Guide                | https://nodes.guru/okp4/setup-guide/en                                                | ✅     | [Nodes Guru](https://nodes.guru/)                                                        |
+| Nodes & Validator Guide                | https://nodeist.net/t/Okp4/Setup/                                                     | ✅     | [Nodeist](https://nodeist.net/)                                                          |
+| Nodes & Validator Guide                | https://nodeservice.nodersteam.com/title/testnets/okp4                                | ❌     | [[NODERS]TEAM](https://noders-stake.com/)                                                |
+| Nodes & Validator Guide                | https://aviaone.com/blockchains-service/okp4-testnet-okp4-nemeton-1.html              | ✅     | [AVIAONE](https://aviaone.com)                                                           |
+| Dev Guidelines 👩‍💻                    | https://work.okp4.com/dev/dev-home                                                    | ✅     | [OKP4](https://github.com/okp4)                                                          |
+| OKP4 Snapshot Guide                    | https://github.com/Kolot86/My-guides/blob/main/OKP4_Sanpshot_Guide/OKP4.md            | ✅     | [Kolot](https://github.com/Kolot86)                                                      |
+| Basic Tools & Validator Guide          | https://github.com/Cumulo-pro/OKP4#readme                                             | ✅     | [Cumulo](https://github.com/Cumulo-pro)                                                  |
+| FAQ OKP4 Validator                     | https://medium.com/cumulo-pro/faq-okp4-validator-19e81661b101                         | ✅     | [Cumulo](https://github.com/Cumulo-pro)                                                  |
+| OKP4 Community of Validators Resources | https://medium.com/cumulo-pro/okp4-community-of-validators-resources-f3e5b2b4d2f7     | ✅     | [Cumulo](https://github.com/Cumulo-pro)                                                  |
+| TMKMS Guide                            | https://craving-for-knowledge.gitbook.io/craving_for_knowledge/testnets/okp4/tmkms   | ✅     | [Craving_for_Knowledge](https://craving-for-knowledge.gitbook.io/craving_for_knowledge/) |
+| Nodes & Validator Guide                | https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/installation.md       | ✅     | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
+| Monitoring & Alerting for Validators   | https://github.com/cryptobtcbuyer/Testnet_guides/blob/main/OKP4/monitoring.md         | ✅     | [cryptobtcbuyer](https://github.com/cryptobtcbuyer)                                      |
+| Nodes & Validator Guide                | https://nodestake.top/okp4                                                            | ❌     | [NodeStake](https://nodestake.top/okp4)                                                  |
+| WHTech Docs                            | https://docs.whtech.xyz                                                               | ❌     | [WHTech](https://github.com/WHTechno)                                                    |
+
 
 ## 🔭 Block Explorers
 
-| Thanks To                                | Explorer | URL                                           | Status |
-| ---------------------------------------- | -------- | --------------------------------------------- | ------ |
-| NODESYNC                                 | Explorer | <https://explorer.nodesync.top/Axone-Mainnet>   | ✅     |
-| [LuckyStar](https://www.luckystar.asia/) | Explorer | <https://explorer.luckystar.asia/Axone-Mainnet> | ✅     |
-| OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
-| Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
-| [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ✅ |
-| [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
-| [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
-| [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
-| [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
-| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ✅     |
-| [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
-| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ❌ |
-| [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
-| [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
+| Thanks To                                 | Explorer | URL                                            | Status |
+|-------------------------------------------|----------|------------------------------------------------|--------|
+| [OKP4](https://github.com/okp4)           | Ping Pub | https://explore.okp4.network                   | ❌     |
+| [BccNodes](https://github.com/BccNodes/)  | Ping Pub | https://explorer.bccnodes.com/okp4             | ❌     |
+| [Ping Pub](https://github.com/ping-pub/)  | Ping Pub | https://ping.pub/okp4%20testnet?testnet        | ✅     |
+| [L0vd](https://github.com/L0vd)           | Ping Pub | https://explorers.l0vd.com/okp4-testnet        | ✅     |
+| [Nodeist](https://github.com/Nodeist)     | Ping Pub | https://exp.nodeist.net/t-okp4/staking         | ❌     |
+| [PPNV Service](https://ppnv.space)        | Ping Pub | https://explorer.ppnv.space/okp4               | ❌     |
+| [ATOMScan](https://atomscan.com/)         | ATOMScan | https://atomscan.com/testnet/okp4testnet       | ✅     |
+| [NodeStake](https://nodestake.top/)       | Ping Pub | https://explorer.nodestake.top/okp4-testnet    | ✅     |
+| [🔥STAVR🔥](https://github.com/obajay/)   | Ping Pub | https://explorer.stavr.tech/okp4-testnet       | ✅     |
+| [WHTech](https://whtech.xyz)              | Ping Pub | https://explorer.whtech.xyz                    | ✅     |
+| [WHTech](https://whtech.xyz)              | WHTech   | https://explorerku.whtech.xyz                  | ✅     |
 
 ## ⚙️ Services
 
