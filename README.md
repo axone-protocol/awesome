@@ -55,7 +55,7 @@
 | Guide | <https://services.stakeangle.com/mainnets/axone/installation> | ✅     | [StakeAngle](https://stakeangle.com/) |
 | Guide | <https://www.catsmile.cloud/Mainnet/axone> | ✅     | [catsmile](https://www.catsmile.cloud/) |
 | Guide | <https://service.winsnip.xyz/service/axone/installation> | ✅     | [Winsnip](https://service.winsnip.xyz) |
-| Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
+| Guide      | <https://nodesvault.com/services/axone> | ❌    | [NodeVault](https://nodesvault.com) |
 | Guide | <https://service.vinjan.xyz/mainnet/axone/installation> | ✅     | [Vinjan.Inc](https://service.vinjan.xyz) |
 | Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
 | Guide | <https://maouam.xyz/axone/> | ✅     | [Maouam Nodelab](https://maouam.xyz) |
@@ -78,7 +78,7 @@
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
 | [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ✅     |
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
-| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
+| [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
 
