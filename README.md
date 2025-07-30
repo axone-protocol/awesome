@@ -156,6 +156,12 @@
 | [Maouam Nodelab](https://maouam.xyz) | <https://grpc-axone-mainnet.maouam.xyz> |
 | [Indonode](https://indonode.net) | <https://grpc.axone.indonode.net:443> |
 
+> WSS
+
+|                Thanks To                 |                    URL                    | Status |
+| :--------------------------------------: | :---------------------------------------: | :----: |
+| [BccNodes](https://bccnodes.com) | <wss://axone.rpc.bccnodes.com/websocket> |   ✅   |
+
 > Addrbook
 
 | Thanks To                                | URL                                                               | Status |
