@@ -160,7 +160,7 @@
 
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
-| [BccNodes](https://bccnodes.com) | <wss://axone.rpc.bccnodes.com/websocket> |   ✅   |
+| [BccNodes](https://bccnodes.com) | <wss://axone.rpc.bccnodes.com/websocket> |   ❌   |
 
 > Addrbook
 
