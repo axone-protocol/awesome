@@ -60,6 +60,8 @@
 | Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
 | Guide | <https://maouam.xyz/axone/> | ✅     | [Maouam Nodelab](https://maouam.xyz) |
 | Guide | <https://bitnodes.xyz/axonemainnet> | ✅     | [BITNODES](https://bitnodes.xyz/) |
+| Guide | <https://boygau.top/guide/mainet/axone.html> | ✅ | [BoyGau](https://boygau.top) |
+| Guide | <https://indonode.net/services/mainnet/axone> | ✅ | [Indonode](https://indonode.net/) |
 
 ## 🔭 Block Explorers
 
@@ -80,6 +82,7 @@
 | [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
+| [Indonode](https://indonode.net) | Explorer | <https://explorer.indonode.net/axone> | ✅ |
 
 ## ⚙️ Services
 
@@ -105,6 +108,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://rpc-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ✅ |
+| [Indonode](https://indonode.net) | <https://rpc.axone.indonode.net> | ✅ |
 
 > API
 
@@ -129,6 +133,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ✅ |
+| [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ✅ |
 
 > gRPC
 
@@ -149,6 +154,13 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://grpc-axone.vinjan.xyz> |
 | [NODERS](https://noders.team) | <axone-grpc.noders.services:443> |
 | [Maouam Nodelab](https://maouam.xyz) | <https://grpc-axone-mainnet.maouam.xyz> |
+| [Indonode](https://indonode.net) | <https://grpc.axone.indonode.net:443> |
+
+> WSS
+
+|                Thanks To                 |                    URL                    | Status |
+| :--------------------------------------: | :---------------------------------------: | :----: |
+| [BccNodes](https://bccnodes.com) | <wss://axone.rpc.bccnodes.com/websocket> |   ❌   |
 
 > Addrbook
 
@@ -166,6 +178,7 @@
 | [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ✅ |
 | [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ✅ |
+| [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ✅ |
 
 > Snapshot
 
@@ -186,6 +199,7 @@
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/snapshot> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ✅ |
+| [Indonode](https://indonode.net/) | <https://indonode.net/services/mainnet/axone/sync#snapshot> | ✅ |
 
 > State / Quick Sync
 
@@ -197,6 +211,7 @@
 | [StakeAngle](https://stakeangle.com/)  | <https://services.stakeangle.com/mainnets/axone/state-sync> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/statesync> | ✅ |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/statesync> | ✅ |
+| [Indonode](https://indonode.net/) | <https://indonode.net/services/mainnet/axone/sync#statesync> | ✅ |
 
 > Live Peer
 
@@ -213,6 +228,7 @@
 | [catsmile](https://www.catsmile.cloud/)  | <http://peer-axone.catsmile.space/peers.json> |
 | [Vinjan.Inc](https://service.vinjan.xyz) | aa6054a53f0f57831e74af4a34bd1f58f5676307@65.21.234.111:10556 |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/seeds-and-peers> |
+| [Indonode](https://indonode.net) | 17e6e445d79b608df52c36d9eae1deb32101f40f@rpc.axone.indonode.net:31656 |
 
 ## 📊 Dashboards
 
@@ -223,7 +239,7 @@
 | [OwlStake](https://owlstake.com) | Decentralization Analytics | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅     |
 | [OwlStake](https://owlstake.com) | Onchain Analytics (Building) | <https://dashboard.owlstake.com/axone> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator | <https://monitor-pro.catsmile.cloud/> | ✅     |
-| [ONENOV](https://onenov.xyz) | Validator Monitoring Dashboard | https://dashboard-axone.onenov.xyz | ✅ |
+| [ONENOV](https://onenov.xyz) | Validator Monitoring Dashboard | <https://dashboard-axone.onenov.xyz> | ✅ |
 
 ## 🖥️ Applications
 
@@ -239,11 +255,20 @@
 | OneNov | Bash Script | [axone-autostake](https://github.com/OneNov0209/axone-auto-restake) | Shell script to automatically withdraw rewards and restake with Telegram notification                                                                                     |
 | Node39.TOP | Cosmos Monitor and Proposals | [https://t.me/node39_cosmos_monitor_bot](https://t.me/node39_cosmos_monitor_bot) | Automatically monitors proposals (voting), alerts on missed blocks, jail status, active\|inactive state. Helps you respond promptly, maintain uptime, and avoid slashing. |
 
-## You want to get involved? 😍
+## Be part of it 🫵
 
-Please submit a pull request if you know any resources that might be helpful to the community. ❤️
+This repo is a tribute to _builders_, _tinkerers_, and _explorers_ around [Axone](https://axone.xyz) and beyond.
+If your work belongs here - say so.
 
-Don't forget to check out AXONE health files:
+1. → FORK it
+2. → ADD it
+3. → PR it
 
-- [Contributing](https://github.com/axone-protocol/.github/blob/main/CONTRIBUTING.md)
-- [Code of conduct](https://github.com/axone-protocol/.github/blob/main/CODE_OF_CONDUCT.md)
+You're in.
+
+<sub>psst… because community matters:</sub>
+
+<ul>
+  <li><sub><a href="https://github.com/axone-protocol/.github/blob/main/CONTRIBUTING.md">Read the contributing guide</a></sub></li>
+  <li><sub><a href="https://github.com/axone-protocol/.github/blob/main/CODE_OF_CONDUCT.md">Respect the code of conduct</a></sub></li>
+</ul>
