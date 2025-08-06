@@ -66,6 +66,16 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [The Power of Machines, the Duty of Humans](https://blog.axone.xyz/the-power-of-machines-the-duty-of-humans-8d9e664ce3d1?source=rss----9225d63e3e85---4) — Wed, 06 Aug 2025 06:16:53 GMT
+- 📝 [Announcing Genesis Delegation Program Results](https://blog.axone.xyz/announcing-genesis-delegation-program-results-063129353d6f?source=rss----9225d63e3e85---4) — Tue, 05 Aug 2025 08:35:49 GMT
+- 📝 [From HR to AR: Why the Future Needs Agent Resource Management?](https://blog.axone.xyz/from-hr-to-ar-why-the-future-needs-agent-resource-management-e51e6e398013?source=rss----9225d63e3e85---4) — Fri, 25 Jul 2025 14:13:33 GMT
+- 📝 [Of Agents and Meaning: Building Collaborative AI in the Post-Web Era](https://blog.axone.xyz/of-agents-and-meaning-building-collaborative-ai-in-the-post-web-era-4defee9fb836?source=rss----9225d63e3e85---4) — Tue, 22 Jul 2025 13:30:42 GMT
+- 📝 [Unlocking Decentralization: Inside Axone’s Delegation Initiatives](https://blog.axone.xyz/unlocking-decentralization-inside-axones-delegation-initiatives-92b9e3eeca0c?source=rss----9225d63e3e85---4) — Mon, 21 Jul 2025 10:15:55 GMT
+- 📝 [Mainnet is Live: Tokenomics Breakdown and Next Steps](https://blog.axone.xyz/mainnet-is-live-tokenomics-breakdown-and-next-steps-e342071c12e9?source=rss----9225d63e3e85---4) — Fri, 18 Jul 2025 12:06:24 GMT
+- 📝 [Of Angels and Agents: Towards a Semantic Internet of Action](https://blog.axone.xyz/of-angels-and-agents-towards-a-semantic-internet-of-action-9f1ae5432157?source=rss----9225d63e3e85---4) — Sat, 12 Jul 2025 11:04:02 GMT
+- 📝 [We’re Not Launching a Blockchain. We’re Launching a Protocol.](https://blog.axone.xyz/were-not-launching-a-blockchain-we-re-launching-a-protocol-87ea692bd3b8?source=rss----9225d63e3e85---4) — Sat, 05 Jul 2025 08:46:56 GMT
+- 📝 [Axone Tokenomics: Building Value Beyond Hype](https://blog.axone.xyz/axone-tokenomics-building-value-beyond-hype-982ccd048ce1?source=rss----9225d63e3e85---4) — Tue, 01 Jul 2025 10:52:34 GMT
+- 📝 [Axone Mainnet Launches July 8! — But why the $AXONE token won’t be tradable at launch](https://blog.axone.xyz/axone-mainnet-launches-july-8-but-why-the-axone-token-wont-be-tradable-at-launch-066ef652882d?source=rss----9225d63e3e85---4) — Wed, 25 Jun 2025 08:59:38 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
