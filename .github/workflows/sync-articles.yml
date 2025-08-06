@@ -25,8 +25,7 @@ jobs:
           git_commit_gpgsign: true
 
       - name: Install dependencies
-        run: pip install feedparser
-
+        run: python -m pip install feedparser==6.0.10
       - name: Update Axone articles section
         shell: python
         run: |
