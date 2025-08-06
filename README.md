@@ -63,6 +63,11 @@
 | Guide | <https://boygau.top/guide/mainet/axone.html> | ✅ | [BoyGau](https://boygau.top) |
 | Guide | <https://indonode.net/services/mainnet/axone> | ✅ | [Indonode](https://indonode.net/) |
 
+## 📖 Axone blog
+
+<!--START_SECTION:axone-medium-->
+<!--END_SECTION:axone-medium-->
+
 ## 🔭 Block Explorers
 
 | Thanks To                                | Explorer | URL                                           | Status |
