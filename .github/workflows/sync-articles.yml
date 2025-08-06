@@ -27,7 +27,7 @@ jobs:
       - name: Update README with latest Axone articles
         uses: JasonEtco/rss-to-readme@v2
         with:
-          feed_url: "https://blog.axone.xyz/feed"
+          feed-url: "https://blog.axone.xyz/feed"
           readme-section: "axone-medium"
           max: 15
           template: "- 📝 [{{ title }}]({{ link }}) — {{ pubDate }}"
