@@ -24,13 +24,44 @@ jobs:
           git_user_signingkey: true
           git_commit_gpgsign: true
 
-      - name: Update README with latest Axone articles
-        uses: JasonEtco/rss-to-readme@v2
-        with:
-          feed-url: "https://blog.axone.xyz/feed"
-          readme-section: "axone-medium"
-          max: 15
-          template: "- 📝 [{{ title }}]({{ link }}) — {{ pubDate }}"
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Update Axone articles section
+        shell: python
+        run: |
+          import feedparser
+          import re
+          import sys
+
+          README = "README.md"
+          FEED_URL = "https://blog.axone.xyz/feed"
+          START = "<!--START_SECTION:axone-medium-->"
+          END = "<!--END_SECTION:axone-medium-->"
+          MAX_ITEMS = 10
+
+          feed = feedparser.parse(FEED_URL)
+
+          lines = []
+          for entry in feed.entries[:MAX_ITEMS]:
+              title = getattr(entry, "title", "").strip()
+              link = getattr(entry, "link", "").strip()
+              pub = getattr(entry, "published", "").strip()
+              if title and link:
+                  lines.append(f"- 📝 [{title}]({link}) — {pub}")
+
+          with open(README, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = re.compile(f"{re.escape(START)}.*?{re.escape(END)}", re.DOTALL)
+          if not pattern.search(content):
+              sys.exit("Start or end marker not found in README.md")
+
+          new_block = f"{START}\n" + "\n".join(lines) + f"\n{END}"
+          updated = pattern.sub(new_block, content)
+
+          with open(README, "w", encoding="utf-8") as f:
+              f.write(updated)
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
