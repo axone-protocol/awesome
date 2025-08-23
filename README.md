@@ -66,6 +66,7 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [The MIT Breakthrough That Reveals Why We Need Decentralized AI Infrastructure of AXONE.](https://blog.axone.xyz/the-mit-breakthrough-that-reveals-why-we-need-decentralized-ai-infrastructure-of-axone-af72794cbd9a?source=rss----9225d63e3e85---4) — Fri, 22 Aug 2025 18:09:23 GMT
 - 📝 [When Technology Isn’t Enough: The Long Road to Decentralization](https://blog.axone.xyz/when-technology-isnt-enough-the-long-road-to-decentralization-4317aeeb4952?source=rss----9225d63e3e85---4) — Thu, 21 Aug 2025 14:03:04 GMT
 - 📝 [The Power of Machines, the Duty of Humans](https://blog.axone.xyz/the-power-of-machines-the-duty-of-humans-8d9e664ce3d1?source=rss----9225d63e3e85---4) — Wed, 06 Aug 2025 06:16:53 GMT
 - 📝 [Announcing Genesis Delegation Program Results](https://blog.axone.xyz/announcing-genesis-delegation-program-results-063129353d6f?source=rss----9225d63e3e85---4) — Tue, 05 Aug 2025 08:35:49 GMT
@@ -75,7 +76,6 @@
 - 📝 [Mainnet is Live: Tokenomics Breakdown and Next Steps](https://blog.axone.xyz/mainnet-is-live-tokenomics-breakdown-and-next-steps-e342071c12e9?source=rss----9225d63e3e85---4) — Fri, 18 Jul 2025 12:06:24 GMT
 - 📝 [Of Angels and Agents: Towards a Semantic Internet of Action](https://blog.axone.xyz/of-angels-and-agents-towards-a-semantic-internet-of-action-9f1ae5432157?source=rss----9225d63e3e85---4) — Sat, 12 Jul 2025 11:04:02 GMT
 - 📝 [We’re Not Launching a Blockchain. We’re Launching a Protocol.](https://blog.axone.xyz/were-not-launching-a-blockchain-we-re-launching-a-protocol-87ea692bd3b8?source=rss----9225d63e3e85---4) — Sat, 05 Jul 2025 08:46:56 GMT
-- 📝 [Axone Tokenomics: Building Value Beyond Hype](https://blog.axone.xyz/axone-tokenomics-building-value-beyond-hype-982ccd048ce1?source=rss----9225d63e3e85---4) — Tue, 01 Jul 2025 10:52:34 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
