@@ -106,7 +106,7 @@
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
 |                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ✅   |
-| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ❌   |
+| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ✅   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
@@ -130,7 +130,7 @@
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
 |                 NODESYNC                 |      <https://axone-api.nodesync.top>       |   ✅   |
-| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ❌   |
+| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ✅   |
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
@@ -181,7 +181,7 @@
 
 | Thanks To                                | URL                                                               | Status |
 | ---------------------------------------- | ----------------------------------------------------------------- | ------ |
-| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ❌     |
+| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ✅     |
 | Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ✅     |
@@ -207,7 +207,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/snapshot-and-state-sync> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
-| [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
+| [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ❌     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/snapshot_latest.tar.lz4> | ✅ |
 | [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/snapshot> | ✅ |
