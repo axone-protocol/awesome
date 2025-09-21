@@ -98,6 +98,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
 | [Indonode](https://indonode.net) | Explorer | <https://explorer.indonode.net/axone> | ✅ |
+| [Axone](https://axone.xyz) | Explorer | <https://explore.axone.xyz> | ✅ |
 
 ## ⚙️ Services
 
