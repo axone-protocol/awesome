@@ -112,7 +112,7 @@
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-rpc.bitnodes.xyz/> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ❌   |
+| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ✅   |
 | [Ryddd](https://provewithryd.xyz) | <https://rpc-axone.provewithryd.xyz> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-rpc.codeblocklabs.com/](https://axone-rpc.codeblocklabs.com/) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
@@ -136,7 +136,7 @@
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ✅ |
-| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ❌   |
+| [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ✅   |
 | [Ryddd](https://provewithryd.xyz) | <https://api-axone.provewithryd.xyz> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-api.codeblocklabs.com/](https://axone-api.codeblocklabs.com/) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
