@@ -194,7 +194,7 @@
 | [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ✅ |
 | [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ✅ |
-| [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ✅ |
+| [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ❌ |
 
 > Snapshot
 
