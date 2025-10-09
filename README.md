@@ -120,7 +120,7 @@
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://rpc-axone.catsmile.space> | ❌ |
 | [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ✅ |
-| [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ❌ |
+| [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://rpc-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ✅ |
