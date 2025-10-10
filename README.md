@@ -106,7 +106,7 @@
 
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
-|                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ✅   |
+|                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ❌   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ✅   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
@@ -145,7 +145,7 @@
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ❌ |
 | [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ✅ |
-| [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ❌ |
+| [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ✅ |
