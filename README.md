@@ -66,6 +66,7 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [Utility Tokens Are for Machines, Not Humans](https://blog.axone.xyz/utility-tokens-are-for-machines-not-humans-4ca8242dc72e?source=rss----9225d63e3e85---4) — Mon, 27 Oct 2025 16:22:12 GMT
 - 📝 [When Others See the Fog, Axone Builds Through It!](https://blog.axone.xyz/when-others-see-the-fog-axone-builds-through-it-3a03c637aacd?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:08:54 GMT
 - 📝 [Axone’s architecture, for the curious buildlr](https://blog.axone.xyz/axones-architecture-for-the-curious-buildlr-2367c41c8dff?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:08:20 GMT
 - 📝 [AGI or Agents: The Fork in the Road](https://blog.axone.xyz/agi-or-agents-the-fork-in-the-road-7ca3501e0ccb?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:07:34 GMT
@@ -75,7 +76,6 @@
 - 📝 [The Power of Machines, the Duty of Humans](https://blog.axone.xyz/the-power-of-machines-the-duty-of-humans-8d9e664ce3d1?source=rss----9225d63e3e85---4) — Wed, 06 Aug 2025 06:16:53 GMT
 - 📝 [Announcing Genesis Delegation Program Results](https://blog.axone.xyz/announcing-genesis-delegation-program-results-063129353d6f?source=rss----9225d63e3e85---4) — Tue, 05 Aug 2025 08:35:49 GMT
 - 📝 [From HR to AR: Why the Future Needs Agent Resource Management?](https://blog.axone.xyz/from-hr-to-ar-why-the-future-needs-agent-resource-management-e51e6e398013?source=rss----9225d63e3e85---4) — Fri, 25 Jul 2025 14:13:33 GMT
-- 📝 [Of Agents and Meaning: Building Collaborative AI in the Post-Web Era](https://blog.axone.xyz/of-agents-and-meaning-building-collaborative-ai-in-the-post-web-era-4defee9fb836?source=rss----9225d63e3e85---4) — Tue, 22 Jul 2025 13:30:42 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
