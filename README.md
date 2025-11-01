@@ -192,8 +192,8 @@
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/addrbook.json> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://snap.vinjan.xyz/axone/addrbook.json> | ❌ |
 | [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
-| [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ✅ |
-| [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ❌ |
+| [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ❌ |
 | [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ✅ |
 
 > Snapshot
@@ -213,7 +213,7 @@
 | [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/snapshot> | ✅ |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/snapshot> | ✅ |
-| [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ❌ |
 | [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ✅ |
 | [Indonode](https://indonode.net/) | <https://indonode.net/services/mainnet/axone/sync#snapshot> | ✅ |
 
