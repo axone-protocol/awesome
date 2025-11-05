@@ -66,6 +66,7 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [After the Bubble: The Reflexive Genesis of the Post-Web](https://blog.axone.xyz/after-the-bubble-the-reflexive-genesis-of-the-post-web-856398752635?source=rss----9225d63e3e85---4) — Tue, 04 Nov 2025 13:15:09 GMT
 - 📝 [From Giant Models to Recursive Minds: The Next Chapter of Intelligence](https://blog.axone.xyz/from-giant-models-to-recursive-minds-the-next-chapter-of-intelligence-ec2a7a28905d?source=rss----9225d63e3e85---4) — Mon, 03 Nov 2025 09:10:55 GMT
 - 📝 [Utility Tokens Are for Machines, Not Humans](https://blog.axone.xyz/utility-tokens-are-for-machines-not-humans-4ca8242dc72e?source=rss----9225d63e3e85---4) — Mon, 27 Oct 2025 16:22:12 GMT
 - 📝 [When Others See the Fog, Axone Builds Through It!](https://blog.axone.xyz/when-others-see-the-fog-axone-builds-through-it-3a03c637aacd?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:08:54 GMT
@@ -75,7 +76,6 @@
 - 📝 [The MIT Breakthrough That Reveals Why We Need Decentralized AI Infrastructure of AXONE.](https://blog.axone.xyz/the-mit-breakthrough-that-reveals-why-we-need-decentralized-ai-infrastructure-of-axone-af72794cbd9a?source=rss----9225d63e3e85---4) — Fri, 22 Aug 2025 18:09:23 GMT
 - 📝 [When Technology Isn’t Enough: The Long Road to Decentralization](https://blog.axone.xyz/when-technology-isnt-enough-the-long-road-to-decentralization-4317aeeb4952?source=rss----9225d63e3e85---4) — Thu, 21 Aug 2025 14:03:04 GMT
 - 📝 [The Power of Machines, the Duty of Humans](https://blog.axone.xyz/the-power-of-machines-the-duty-of-humans-8d9e664ce3d1?source=rss----9225d63e3e85---4) — Wed, 06 Aug 2025 06:16:53 GMT
-- 📝 [Announcing Genesis Delegation Program Results](https://blog.axone.xyz/announcing-genesis-delegation-program-results-063129353d6f?source=rss----9225d63e3e85---4) — Tue, 05 Aug 2025 08:35:49 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
