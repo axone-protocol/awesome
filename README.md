@@ -107,9 +107,9 @@
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
 |                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ✅   |
-| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ✅   |
+| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ❌   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
-| Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ❌ |
+| Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://rpc-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-rpc.bitnodes.xyz/> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ✅   |
@@ -131,9 +131,9 @@
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
 |                 NODESYNC                 |      <https://axone-api.nodesync.top>       |   ✅   |
-| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ✅   |
+| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ❌   |
 | OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
-| Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ❌ |
+| Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-api.shazoes.xyz> |   ✅   |
@@ -182,7 +182,7 @@
 
 | Thanks To                                | URL                                                               | Status |
 | ---------------------------------------- | ----------------------------------------------------------------- | ------ |
-| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ✅     |
+| [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ❌     |
 | Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ✅     |
