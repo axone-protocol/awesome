@@ -119,7 +119,7 @@
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://rpc-axone.catsmile.space> | ❌ |
-| [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ❌ |
+| [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ✅ |
 | [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://rpc-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
@@ -132,7 +132,7 @@
 | :--------------------------------------: | :---------------------------------------: | :----: |
 |                 NODESYNC                 |      <https://axone-api.nodesync.top>       |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ❌   |
-| OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ❌ |
+| OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ❌ |
@@ -210,7 +210,7 @@
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/snapshot_latest.tar.lz4> | ❌ |
-| [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ❌ |
+| [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/snapshot> | ✅ |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/snapshot> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ❌ |
