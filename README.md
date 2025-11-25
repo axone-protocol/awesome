@@ -45,7 +45,7 @@
 | Whitepaper | <https://docs.axone.xyz/whitepaper/abstract>                           | ✅     | [AXONE](https://axone.xyz)               |
 | Guide     | <https://nodesync.top/services/mainnet/axone/installation>               | ✅     | [NODESYNC](https://nodesync.top)         |
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
-| Guide | <https://www.onenov.xyz/validator/axone> | ✅     | [OneNov](https://onenov.xyz) |
+| Guide | <https://www.onenov.xyz/validator/axone> | ❌     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
 | Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
 | Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
@@ -132,7 +132,7 @@
 | :--------------------------------------: | :---------------------------------------: | :----: |
 |                 NODESYNC                 |      <https://axone-api.nodesync.top>       |   ✅   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-api.luckystar.asia/> |   ❌   |
-| OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ✅ |
+| OneNov | [https://api-axone-mainnet.onenov.xyz](https://api-axone-mainnet.onenov.xyz) | ❌ |
 | Node39.TOP | [https://axone-api.node39.top](https://axone-api.node39.top) | ✅ |
 | [dnsarz](https://dnsarz.xyz)  | <https://api-axone.dnsarz.xyz> | ✅ |
 | [BITNODES](https://bitnodes.xyz/)  | <https://axone-api.bitnodes.xyz/> | ❌ |
@@ -144,7 +144,7 @@
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ❌ |
-| [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ✅ |
+| [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ❌ |
 | [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
@@ -254,7 +254,7 @@
 | [OwlStake](https://owlstake.com) | RPC Scanner | <https://services.owlstake.com/docs/mainnet/axone/public-rpc> | ✅     |
 | [OwlStake](https://owlstake.com) | Decentralization Analytics | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅     |
 | [OwlStake](https://owlstake.com) | Onchain Analytics (Building) | <https://dashboard.owlstake.com/axone> | ✅     |
-| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator | <https://monitor-pro.catsmile.cloud/> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator | <https://monitor-pro.catsmile.cloud/> | ❌     |
 | [ONENOV](https://onenov.xyz) | Validator Monitoring Dashboard | <https://dashboard-axone.onenov.xyz> | ✅ |
 
 ## 🖥️ Applications
