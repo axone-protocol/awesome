@@ -184,7 +184,7 @@
 | ---------------------------------------- | ----------------------------------------------------------------- | ------ |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-services.luckystar.asia/axone/addrbook.json> | ❌     |
 | Node39.TOP | [https://file3.node39.top/Mainnet/Axone/addrbook.json](https://file3.node39.top/Mainnet/Axone/addrbook.json) | ✅ |
-| [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ✅ |
+| [dnsarz](https://dnsarz.xyz)  | <https://files.dnsarz.xyz/mainnet/axone/addrbook.json> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ✅     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://green.codeblocklabs.com/mainnet/axone/addrbook.json](https://green.codeblocklabs.com/mainnet/axone/addrbook.json) | ✅
