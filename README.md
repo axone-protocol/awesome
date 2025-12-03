@@ -66,6 +66,7 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [The Internet After Us: Inside the Rise of the Post Web](https://blog.axone.xyz/the-internet-after-us-inside-the-rise-of-the-post-web-a25ecbc2cd70?source=rss----9225d63e3e85---4) — Tue, 02 Dec 2025 20:03:06 GMT
 - 📝 [MCP Isn’t Failing. It’s Signaling the Next Revolution in AI Governance.](https://blog.axone.xyz/mcp-isnt-failing-it-s-signaling-the-next-revolution-in-ai-governance-e90435312b0f?source=rss----9225d63e3e85---4) — Mon, 01 Dec 2025 09:49:12 GMT
 - 📝 [LeCun Walks Out: What If the AI Industry Just Woke Up to the Limits of LLMs?](https://blog.axone.xyz/lecun-walks-out-what-if-the-ai-industry-just-woke-up-to-the-limits-of-llms-b14fec00e227?source=rss----9225d63e3e85---4) — Sat, 22 Nov 2025 12:45:31 GMT
 - 📝 [After the Bubble: The Reflexive Genesis of the Post-Web](https://blog.axone.xyz/after-the-bubble-the-reflexive-genesis-of-the-post-web-856398752635?source=rss----9225d63e3e85---4) — Tue, 04 Nov 2025 13:15:09 GMT
@@ -75,7 +76,6 @@
 - 📝 [Axone’s architecture, for the curious buildlr](https://blog.axone.xyz/axones-architecture-for-the-curious-buildlr-2367c41c8dff?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:08:20 GMT
 - 📝 [AGI or Agents: The Fork in the Road](https://blog.axone.xyz/agi-or-agents-the-fork-in-the-road-7ca3501e0ccb?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:07:34 GMT
 - 📝 [Axone Roadmap: From Testnet to the Semantic Layer of Decentralized AI](https://blog.axone.xyz/axone-roadmap-from-testnet-to-the-semantic-layer-of-decentralized-ai-9ae178aef9d0?source=rss----9225d63e3e85---4) — Sat, 27 Sep 2025 14:48:07 GMT
-- 📝 [The MIT Breakthrough That Reveals Why We Need Decentralized AI Infrastructure of AXONE.](https://blog.axone.xyz/the-mit-breakthrough-that-reveals-why-we-need-decentralized-ai-infrastructure-of-axone-af72794cbd9a?source=rss----9225d63e3e85---4) — Fri, 22 Aug 2025 18:09:23 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
