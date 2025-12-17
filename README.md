@@ -191,7 +191,7 @@
 | [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/addrbook.json> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://snap.vinjan.xyz/axone/addrbook.json> | ❌ |
-| [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
+| [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ❌ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ❌ |
 | [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ❌ |
 | [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ✅ |
