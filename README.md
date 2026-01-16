@@ -92,7 +92,7 @@
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
 | [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
-| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ✅     |
+| [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ❌     |
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
 | [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
@@ -254,7 +254,7 @@
 | [OwlStake](https://owlstake.com) | RPC Scanner | <https://services.owlstake.com/docs/mainnet/axone/public-rpc> | ✅     |
 | [OwlStake](https://owlstake.com) | Decentralization Analytics | <https://services.owlstake.com/docs/mainnet/axone/decentralization> | ✅     |
 | [OwlStake](https://owlstake.com) | Onchain Analytics (Building) | <https://dashboard.owlstake.com/axone> | ✅     |
-| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator | <https://monitor-pro.catsmile.cloud/> | ✅     |
+| [catsmile](https://www.catsmile.cloud/)  | Monitoring Validator | <https://monitor-pro.catsmile.cloud/> | ❌     |
 | [ONENOV](https://onenov.xyz) | Validator Monitoring Dashboard | <https://dashboard-axone.onenov.xyz> | ✅ |
 
 ## 🖥️ Applications
