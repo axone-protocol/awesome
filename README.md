@@ -99,6 +99,7 @@
 | [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
 | [Indonode](https://indonode.net) | Explorer | <https://explorer.indonode.net/axone> | ✅ |
 | [Axone](https://axone.xyz) | Explorer | <https://explore.axone.xyz> | ✅ |
+| [CitizenWeb3](https://citizenweb3.com) | Explorer | <https://validatorinfo.com/networks/axone/overview> | ✅ |
 
 ## ⚙️ Services
 
@@ -125,6 +126,8 @@
 | [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ✅ |
 | [Indonode](https://indonode.net) | <https://rpc.axone.indonode.net> | ✅ |
+| [CitizenWeb3](https://citizenweb3.com) | <https://rpc.axone.citizenweb3.com> | ✅ |
+| [CitizenWeb3](https://citizenweb3.com) | <https://rpc.axone-archive.citizenweb3.com> | ✅ |
 
 > API
 
@@ -150,6 +153,8 @@
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ✅ |
 | [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ✅ |
+| [CitizenWeb3](https://citizenweb3.com) | <https://api.axone.citizenweb3.com> | ✅ |
+| [CitizenWeb3](https://citizenweb3.com) | <https://api.axone-archive.citizenweb3.com> | ✅ |
 
 > gRPC
 
@@ -171,6 +176,8 @@
 | [NODERS](https://noders.team) | <axone-grpc.noders.services:443> |
 | [Maouam Nodelab](https://maouam.xyz) | <https://grpc-axone-mainnet.maouam.xyz> |
 | [Indonode](https://indonode.net) | <https://grpc.axone.indonode.net:443> |
+| [CitizenWeb3](https://citizenweb3.com) | grpc.axone.citizenweb3.com:443 |
+| [CitizenWeb3](https://citizenweb3.com) | grpc.axone-archive.citizenweb3.com:443 |
 
 > WSS
 
@@ -216,6 +223,7 @@
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ❌ |
 | [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ✅ |
 | [Indonode](https://indonode.net/) | <https://indonode.net/services/mainnet/axone/sync#snapshot> | ✅ |
+| [CitizenWeb3](https://citizenweb3.com) | <https://staking.citizenweb3.com/chains/axone> | ✅ |
 
 > State / Quick Sync
 
@@ -245,6 +253,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | aa6054a53f0f57831e74af4a34bd1f58f5676307@65.21.234.111:10556 |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/seeds-and-peers> |
 | [Indonode](https://indonode.net) | 17e6e445d79b608df52c36d9eae1deb32101f40f@rpc.axone.indonode.net:31656 |
+| [CitizenWeb3](https://citizenweb3.com) | b4629105b507792188a79fdb70f03262507cb5fc@78.46.79.242:17656 |
 
 ## 📊 Dashboards
 
