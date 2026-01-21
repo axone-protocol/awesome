@@ -47,7 +47,7 @@
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/validator/axone> | ✅     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
-| Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ✅    | [dnsarz](https://dnsarz.xyz) |
+| Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ❌    | [dnsarz](https://dnsarz.xyz) |
 | Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
 | Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ❌     | [Ryddd](https://provewithryd.xyz) |
 | Guide | <https://documentation.codeblocklabs.com/blockchain-nodes/axone/installation> | ✅     | [CodeBlockLabs](https://codeblocklabs.com) |
@@ -203,7 +203,7 @@
 | NODESYNC                                 | <https://nodesync.top/services/mainnet/axone/api-sync/#snapshot>                  | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot> | ✅     |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ✅ |
-| [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
+| [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/snapshot-and-state-sync> | ❌     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
@@ -222,7 +222,7 @@
 | Thanks To                               | URL                                                | Status |
 | --------------------------------------- | -------------------------------------------------- | ------ |
 | Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
-| [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ✅ |
+| [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 | [StakeAngle](https://stakeangle.com/)  | <https://services.stakeangle.com/mainnets/axone/state-sync> | ✅ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/statesync> | ✅ |
