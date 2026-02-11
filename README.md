@@ -90,7 +90,7 @@
 | [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
-| [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ❌ |
+| [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
 | [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ❌     |
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ✅  |
