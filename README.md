@@ -106,7 +106,7 @@
 
 |                Thanks To                 |                    URL                    | Status |
 | :--------------------------------------: | :---------------------------------------: | :----: |
-|                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ✅   |
+|                 NODESYNC                 |      <https://axone-rpc.nodesync.top>       |   ❌   |
 | [LuckyStar](https://www.luckystar.asia/) | <https://axone-mainnet-rpc.luckystar.asia/> |   ❌   |
 | OneNov | [https://rpc-axone-mainnet.onenov.xyz](https://rpc-axone-mainnet.onenov.xyz) | ✅ |
 | Node39.TOP | [https://axone-rpc.node39.top](https://axone-rpc.node39.top) | ✅ |
