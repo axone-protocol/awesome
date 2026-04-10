@@ -66,6 +66,7 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [The Internet Can Execute. But It Still Cannot Govern.](https://blog.axone.xyz/the-internet-can-execute-but-it-still-cannot-govern-d7247e15abff?source=rss----9225d63e3e85---4) — Thu, 09 Apr 2026 20:10:29 GMT
 - 📝 [Moltbook Didn’t Show Us the Singularity. It Showed Us the Post Web’s First Incident.](https://blog.axone.xyz/moltbook-didnt-show-us-the-singularity-it-showed-us-the-post-web-s-first-incident-7285a503084a?source=rss----9225d63e3e85---4) — Wed, 11 Feb 2026 20:50:59 GMT
 - 📝 [When Agents Discover Each Other, Who Decides What They’re Allowed to Do?](https://blog.axone.xyz/when-agents-discover-each-other-who-decides-what-theyre-allowed-to-do-1ffb141c297c?source=rss----9225d63e3e85---4) — Wed, 11 Feb 2026 20:29:53 GMT
 - 📝 [The Internet After Us: Inside the Rise of the Post Web](https://blog.axone.xyz/the-internet-after-us-inside-the-rise-of-the-post-web-a25ecbc2cd70?source=rss----9225d63e3e85---4) — Tue, 02 Dec 2025 20:03:06 GMT
@@ -75,7 +76,6 @@
 - 📝 [From Giant Models to Recursive Minds: The Next Chapter of Intelligence](https://blog.axone.xyz/from-giant-models-to-recursive-minds-the-next-chapter-of-intelligence-ec2a7a28905d?source=rss----9225d63e3e85---4) — Mon, 03 Nov 2025 09:10:55 GMT
 - 📝 [Utility Tokens Are for Machines, Not Humans](https://blog.axone.xyz/utility-tokens-are-for-machines-not-humans-4ca8242dc72e?source=rss----9225d63e3e85---4) — Mon, 27 Oct 2025 16:22:12 GMT
 - 📝 [When Others See the Fog, Axone Builds Through It!](https://blog.axone.xyz/when-others-see-the-fog-axone-builds-through-it-3a03c637aacd?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:08:54 GMT
-- 📝 [Axone’s architecture, for the curious buildlr](https://blog.axone.xyz/axones-architecture-for-the-curious-buildlr-2367c41c8dff?source=rss----9225d63e3e85---4) — Sat, 25 Oct 2025 22:08:20 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
