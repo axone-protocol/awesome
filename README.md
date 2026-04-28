@@ -123,7 +123,7 @@
 | [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://rpc-axone.vinjan.xyz> | ❌ |
 | [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
-| [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ❌ |
 | [Indonode](https://indonode.net) | <https://rpc.axone.indonode.net> | ✅ |
 
 > API
@@ -148,7 +148,7 @@
 | [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ❌ |
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
-| [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ❌ |
 | [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ✅ |
 
 > gRPC
