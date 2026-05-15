@@ -46,7 +46,7 @@
 | Guide     | <https://nodesync.top/services/mainnet/axone/installation>               | ✅     | [NODESYNC](https://nodesync.top)         |
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/validator/axone> | ❌     | [OneNov](https://onenov.xyz) |
-| Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ✅     | [Node39.TOP](https://node39.top) |
+| Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ❌     | [Node39.TOP](https://node39.top) |
 | Guide      | <https://dnsarz.xyz/services/mainnet/axone/> | ❌    | [dnsarz](https://dnsarz.xyz) |
 | Guides    | <https://services.shazoes.xyz/mainnets/axone/node-installation> | ✅     | [Shazoes](https://services.shazoes.xyz) |
 | Guide | <https://docs.provewithryd.xyz/mainnet/axone> | ❌     | [Ryddd](https://provewithryd.xyz) |
@@ -85,7 +85,7 @@
 | NODESYNC                                 | Explorer | <https://explorer.nodesync.top/Axone-Mainnet>   | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | Explorer | <https://explorer.luckystar.asia/Axone-Mainnet> | ✅     |
 | OneNov | Cosmos-based Explorer | [explorer.onenov.xyz/axone-mainnet](https://explorer.onenov.xyz/axone-mainnet) | ✅ |
-| Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ✅ |
+| Node39.TOP | Cosmos Explorer | [https://explorer.node39.top/axone](https://explorer.node39.top/axone) | ❌ |
 | [dnsarz](https://dnsarz.xyz)    | explorer |<https://ping.dnsarz.xyz/axone> | ❌ |
 | [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
@@ -202,7 +202,7 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------- | ------ |
 | NODESYNC                                 | <https://nodesync.top/services/mainnet/axone/api-sync/#snapshot>                  | ✅     |
 | [LuckyStar](https://www.luckystar.asia/) | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone/snapshot> | ✅     |
-| Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ✅ |
+| Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#snapshot-server-3) | ❌ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/snapshot-and-state-sync> | ❌     |
@@ -221,7 +221,7 @@
 
 | Thanks To                               | URL                                                | Status |
 | --------------------------------------- | -------------------------------------------------- | ------ |
-| Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ✅ |
+| Node39.TOP | [https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync](https://node39.top/docs/Mainnet/Axone/Sync%20&%20Endpoint#state-sync) | ❌ |
 | [dnsarz](https://dnsarz.xyz)  | <https://dnsarz.xyz/services/mainnet/axone/endpoint/> | ❌ |
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 | [StakeAngle](https://stakeangle.com/)  | <https://services.stakeangle.com/mainnets/axone/state-sync> | ✅ |
