@@ -90,7 +90,7 @@
 | [BITNODES](https://bitnodes.xyz/)    | explorer |<https://explorer.bitnodes.xyz/Axone%20Mainnet> | ✅ |
 | [Shazoes](https://services.shazoes.xyz) | Explorer | <https://explorer.shazoes.xyz/axone-mainnet> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | Ryddd Explorer | <https://explorer.provewithryd.xyz/axone-mainnet> | ✅    |
-| [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ✅ |
+| [CodeBlockLabs](https://codeblocklabs.com) | Ping.pub Based | [https://explorer.codeblocklabs.com](https://explorer.codeblocklabs.com) | ❌ |
 | [OwlStake](https://owlstake.com) | Ping.pub Based | [https://explorer.owlstake.com/main-axone/](https://explorer.owlstake.com/main-axone/) | ✅ |
 | [catsmile](https://www.catsmile.cloud/) | Cosmos Explorer | <https://explorer.catsmile.cloud/axone-mainnet> | ❌     |
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ❌  |
@@ -124,7 +124,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://rpc-axone.vinjan.xyz> | ❌ |
 | [NODERS](https://noders.team) | <https://axone-rpc.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://rpc-axone-mainnet.maouam.xyz> | ❌ |
-| [Indonode](https://indonode.net) | <https://rpc.axone.indonode.net> | ✅ |
+| [Indonode](https://indonode.net) | <https://rpc.axone.indonode.net> | ❌ |
 
 > API
 
@@ -149,7 +149,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ❌ |
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ❌ |
-| [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ✅ |
+| [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ❌ |
 
 > gRPC
 
@@ -194,7 +194,7 @@
 | [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz/addrbook.json> | ❌ |
 | [BITNODES](https://bitnodes.xyz/) | <https://snapshots.axone.bitnodes.xyz/axone/addrbook.json> | ❌ |
-| [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ✅ |
+| [Indonode](https://indonode.net/) | <https://snapshots.indonode.net/axone/addrbook.json> | ❌ |
 
 > Snapshot
 
