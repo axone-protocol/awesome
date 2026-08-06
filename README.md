@@ -66,6 +66,7 @@
 ## 📖 Axone blog
 
 <!--START_SECTION:axone-medium-->
+- 📝 [The Internet Can Execute. But It Still Cannot Govern.](https://blog.axone.xyz/the-internet-can-execute-but-it-still-cannot-govern-dc7cb841949b?source=rss----9225d63e3e85---4) — Thu, 06 Aug 2026 06:41:20 GMT
 - 📝 [The Missing Layer of AI Isn’t Another Model. It’s Governance.](https://blog.axone.xyz/the-missing-layer-of-ai-isnt-another-model-it-s-governance-48a6929a855b?source=rss----9225d63e3e85---4) — Fri, 03 Jul 2026 08:13:13 GMT
 - 📝 [The Internet Can Execute. But It Still Cannot Govern.](https://blog.axone.xyz/the-internet-can-execute-but-it-still-cannot-govern-d7247e15abff?source=rss----9225d63e3e85---4) — Thu, 09 Apr 2026 20:10:29 GMT
 - 📝 [Moltbook Didn’t Show Us the Singularity. It Showed Us the Post Web’s First Incident.](https://blog.axone.xyz/moltbook-didnt-show-us-the-singularity-it-showed-us-the-post-web-s-first-incident-7285a503084a?source=rss----9225d63e3e85---4) — Wed, 11 Feb 2026 20:50:59 GMT
@@ -75,7 +76,6 @@
 - 📝 [LeCun Walks Out: What If the AI Industry Just Woke Up to the Limits of LLMs?](https://blog.axone.xyz/lecun-walks-out-what-if-the-ai-industry-just-woke-up-to-the-limits-of-llms-b14fec00e227?source=rss----9225d63e3e85---4) — Sat, 22 Nov 2025 12:45:31 GMT
 - 📝 [After the Bubble: The Reflexive Genesis of the Post-Web](https://blog.axone.xyz/after-the-bubble-the-reflexive-genesis-of-the-post-web-856398752635?source=rss----9225d63e3e85---4) — Tue, 04 Nov 2025 13:15:09 GMT
 - 📝 [From Giant Models to Recursive Minds: The Next Chapter of Intelligence](https://blog.axone.xyz/from-giant-models-to-recursive-minds-the-next-chapter-of-intelligence-ec2a7a28905d?source=rss----9225d63e3e85---4) — Mon, 03 Nov 2025 09:10:55 GMT
-- 📝 [Utility Tokens Are for Machines, Not Humans](https://blog.axone.xyz/utility-tokens-are-for-machines-not-humans-4ca8242dc72e?source=rss----9225d63e3e85---4) — Mon, 27 Oct 2025 16:22:12 GMT
 <!--END_SECTION:axone-medium-->
 
 ## 🔭 Block Explorers
