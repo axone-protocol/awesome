@@ -59,7 +59,7 @@
 | Guide | <https://service.vinjan.xyz/mainnet/axone/installation> | ❌     | [Vinjan.Inc](https://service.vinjan.xyz) |
 | Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
 | Guide | <https://maouam.xyz/axone/> | ❌     | [Maouam Nodelab](https://maouam.xyz) |
-| Guide | <https://bitnodes.xyz/axonemainnet> | ❌     | [BITNODES](https://bitnodes.xyz/) |
+| Guide | <https://bitnodes.xyz/axonemainnet> | ✅     | [BITNODES](https://bitnodes.xyz/) |
 | Guide | <https://boygau.top/guide/mainet/axone.html> | ✅ | [BoyGau](https://boygau.top) |
 | Guide | <https://indonode.net/services/mainnet/axone> | ✅ | [Indonode](https://indonode.net/) |
 
@@ -214,7 +214,7 @@
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://service.vinjan.xyz/mainnet/axone/snapshot> | ❌ |
 | [NODERS](https://noders.team) | <https://noders.services/mainnet/axone/snapshot> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://snapshot-axone-mainnet.maouam.xyz> | ❌ |
-| [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ❌ |
+| [BITNODES](https://bitnodes.xyz/) | <https://bitnodes.xyz/axonemainnetsync> | ✅ |
 | [Indonode](https://indonode.net/) | <https://indonode.net/services/mainnet/axone/sync#snapshot> | ✅ |
 
 > State / Quick Sync
