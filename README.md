@@ -147,7 +147,7 @@
 | [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ❌ |
 | [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ❌ |
-| [NODERS](https://noders.team) | <https://axone-api.noders.services> | ❌ |
+| [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ❌ |
 | [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ✅ |
 
