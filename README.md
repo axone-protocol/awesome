@@ -60,7 +60,7 @@
 | Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
 | Guide | <https://maouam.xyz/axone/> | ❌     | [Maouam Nodelab](https://maouam.xyz) |
 | Guide | <https://bitnodes.xyz/axonemainnet> | ✅     | [BITNODES](https://bitnodes.xyz/) |
-| Guide | <https://boygau.top/guide/mainet/axone.html> | ❌ | [BoyGau](https://boygau.top) |
+| Guide | <https://boygau.top/guide/mainet/axone.html> | ✅ | [BoyGau](https://boygau.top) |
 | Guide | <https://indonode.net/services/mainnet/axone> | ✅ | [Indonode](https://indonode.net/) |
 
 ## 📖 Axone blog
@@ -117,7 +117,7 @@
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-rpc.codeblocklabs.com/](https://axone-rpc.codeblocklabs.com/) | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
-| [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ✅     |
+| [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ❌     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://rpc-axone.catsmile.space> | ❌ |
 | [Winsnip](https://service.winsnip.xyz) | <https://rpc-axone.winsnip.site> | ❌ |
 | [NodeVault](https://nodesvault.com) | <https://rpc.nodesvault.com> | ❌ |
@@ -142,7 +142,7 @@
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
-| [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ✅ |
+| [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ❌ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ❌ |
 | [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ❌ |
 | [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ❌ |
