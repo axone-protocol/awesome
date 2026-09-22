@@ -43,7 +43,7 @@
 | Type      | URL                                                                    | Status | Thanks To                                |
 | --------- | ---------------------------------------------------------------------- | ------ | ---------------------------------------- |
 | Technical Doc | <https://docs.axone.xyz>                           | ✅     | [AXONE](https://axone.xyz)               |
-| Guide     | <https://nodesync.top/services/mainnet/axone/installation>               | ✅     | [NODESYNC](https://nodesync.top)         |
+| Guide     | <https://nodesync.top/services/mainnet/axone/installation>               | ❌     | [NODESYNC](https://nodesync.top)         |
 | Guide     | <https://luckystar-1.gitbook.io/luckystar.asia/mainnet/cosmos-eco/axone> | ✅     | [LuckyStar](https://www.luckystar.asia/) |
 | Guide | <https://www.onenov.xyz/validator/axone> | ❌     | [OneNov](https://onenov.xyz) |
 | Guide | <https://node39.top/docs/Mainnet/Axone/Installation> | ❌     | [Node39.TOP](https://node39.top) |
