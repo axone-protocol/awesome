@@ -115,7 +115,7 @@
 | [Shazoes](https://services.shazoes.xyz) | <https://axone-mainnet-rpc.shazoes.xyz> |   ❌   |
 | [Ryddd](https://provewithryd.xyz) | <https://rpc-axone.provewithryd.xyz> | ❌     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-rpc.codeblocklabs.com/](https://axone-rpc.codeblocklabs.com/) | ✅ |
-| [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ✅ |
+| [OwlStake](https://owlstake.com) | [https://axone-1-rpc.owlstake.com](https://axone-1-rpc.owlstake.com) | ❌ |
 | [Cumulo](https://cumulo.pro/) | <https://rpc.axone.cumulo.com.es> | ✅     |
 | [StakeAngle](https://stakeangle.com/) | <https://axone-rpc.stakeangle.com> | ❌     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://rpc-axone.catsmile.space> | ❌ |
@@ -140,7 +140,7 @@
 | [Ryddd](https://provewithryd.xyz) | <https://api-axone.provewithryd.xyz> | ❌     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://axone-api.codeblocklabs.com/](https://axone-api.codeblocklabs.com/) | ✅ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
-| [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ✅ |
+| [OwlStake](https://owlstake.com) | [https://axone-1-api.owlstake.com](https://axone-1-api.owlstake.com) | ❌ |
 | [Cumulo](https://cumulo.pro/) | <https://api.axone.cumulo.com.es> | ✅ |
 | [StakeAngle](https://stakeangle.com/) | <http://axone-rpc.stakeangle.com:41717> | ❌ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ❌ |
@@ -188,7 +188,7 @@
 | [Shazoes](https://services.shazoes.xyz) | <https://files.shazoes.xyz/mainnets/axone/addrbook.json> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/network-overview> | ❌     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://green.codeblocklabs.com/mainnet/axone/addrbook.json](https://green.codeblocklabs.com/mainnet/axone/addrbook.json) | ❌
-| [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ✅ |
+| [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/addrbook.json](https://snapshots.owlstake.com/axone-1/addrbook.json) | ❌ |
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/addrbook.json> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | <https://snap.vinjan.xyz/axone/addrbook.json> | ❌ |
 | [NODERS](https://noders.team) | <https://snapshots.noders.services/axone/addrbook.json> | ✅ |
@@ -207,7 +207,7 @@
 | [Shazoes](https://services.shazoes.xyz) | <https://services.shazoes.xyz/mainnets/axone/sync> | ✅     |
 | [Ryddd](https://provewithryd.xyz) | <https://docs.provewithryd.xyz/mainnet/axone/snapshot-and-state-sync> | ❌     |
 | [CodeBlockLabs](https://codeblocklabs.com) | [https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot](https://documentation.codeblocklabs.com/blockchain-nodes/axone/snapshot) | ✅ |
-| [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ✅ |
+| [OwlStake](https://owlstake.com) | [https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4](https://snapshots.owlstake.com/axone-1/snapshot_latest.tar.lz4) | ❌ |
 | [Cumulo](https://cumulo.pro/) | <https://cumulo.pro/services/axone/snapshot> | ✅     |
 | [catsmile](https://www.catsmile.cloud/)  | <https://files-axone.catsmile.space/snapshot_latest.tar.lz4> | ❌ |
 | [Winsnip](https://service.winsnip.xyz) | <https://snapshot-axone.winsnip.site> | ❌ |
