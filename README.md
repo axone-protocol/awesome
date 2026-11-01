@@ -58,7 +58,7 @@
 | Guide      | <https://nodesvault.com/services/axone> | ✅    | [NodeVault](https://nodesvault.com) |
 | Guide | <https://service.vinjan.xyz/mainnet/axone/installation> | ✅     | [Vinjan.Inc](https://service.vinjan.xyz) |
 | Installation | <https://noders.services/mainnet/axone/install> | ✅     | [NODERS](https://noders.team) |
-| Guide | <https://maouam.xyz/axone/> | ✅     | [Maouam Nodelab](https://maouam.xyz) |
+| Guide | <https://maouam.xyz/axone/> | ❌     | [Maouam Nodelab](https://maouam.xyz) |
 | Guide | <https://bitnodes.xyz/axonemainnet> | ❌     | [BITNODES](https://bitnodes.xyz/) |
 | Guide | <https://boygau.top/guide/mainet/axone.html> | ✅ | [BoyGau](https://boygau.top) |
 | Guide | <https://indonode.net/services/mainnet/axone> | ✅ | [Indonode](https://indonode.net/) |
@@ -96,7 +96,7 @@
 | [Winsnip](https://service.winsnip.xyz)  | Winsnip Explorer  | <https://portal.winsnip.xyz/axone-main> | ❌  |
 | [NodeVault](https://nodesvault.com) | Explorer | <https://explorer.nodesvault.com> | ❌ |
 | [Vinjan.Inc](https://service.vinjan.xyz) | Explorer | <https://xplorer.vinjan.xyz/axone> | ✅ |
-| [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ✅ |
+| [Maouam Nodelab](https://maouam.xyz) | Explorer | <https://explorer.maouam.xyz/axone-mainnet> | ❌ |
 | [Indonode](https://indonode.net) | Explorer | <https://explorer.indonode.net/axone> | ✅ |
 | [Axone](https://axone.xyz) | Explorer | <https://explore.axone.xyz> | ✅ |
 
@@ -146,7 +146,7 @@
 | [catsmile](https://www.catsmile.cloud/)  | <https://api-axone.catsmile.space> | ❌ |
 | [Winsnip](https://service.winsnip.xyz) | <https://api-axone.winsnip.site> | ❌ |
 | [NodeVault](https://nodesvault.com) | <https://api.nodesvault.com> | ❌ |
-| [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ❌ |
+| [Vinjan.Inc](https://service.vinjan.xyz) | <https://api-axone.vinjan.xyz> | ✅ |
 | [NODERS](https://noders.team) | <https://axone-api.noders.services> | ✅ |
 | [Maouam Nodelab](https://maouam.xyz) | <https://api-axone-mainnet.maouam.xyz> | ❌ |
 | [Indonode](https://indonode.net) | <https://api.axone.indonode.net> | ✅ |
